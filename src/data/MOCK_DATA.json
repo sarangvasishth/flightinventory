@@ -1,500 +1,3502 @@
-[{"name":"Pork - Hock And Feet Attached","type":"breakfast","cuisine":"Mediterranean","cost":19,"inventory":100},
-{"name":"Lamb - Leg, Bone In","type":"snack","cuisine":"Mediterranean","cost":31,"inventory":100},
-{"name":"Eggplant - Regular","type":"snack","cuisine":"Continental","cost":23,"inventory":100},
-{"name":"Salt - Sea","type":"breakfast","cuisine":"Indian","cost":26,"inventory":100},
-{"name":"Lettuce - Green Leaf","type":"snack","cuisine":"Indian","cost":3,"inventory":100},
-{"name":"Cleaner - Pine Sol","type":"breakfast","cuisine":"Italian","cost":7,"inventory":100},
-{"name":"Macaroons - Homestyle Two Bit","type":"breakfast","cuisine":"Continental","cost":2,"inventory":100},
-{"name":"Chicken - Wings, Tip Off","type":"breakfast","cuisine":"Indian","cost":30,"inventory":100},
-{"name":"Lid Tray - 12in Dome","type":"breakfast","cuisine":"Chinese","cost":4,"inventory":100},
-{"name":"Sterno - Chafing Dish Fuel","type":"breakfast","cuisine":"Mediterranean","cost":4,"inventory":100},
-{"name":"Swiss Chard - Red","type":"snack","cuisine":"Mediterranean","cost":34,"inventory":100},
-{"name":"Silicone Parch. 16.3x24.3","type":"breakfast","cuisine":"Indian","cost":14,"inventory":100},
-{"name":"Tea - Darjeeling, Azzura","type":"snack","cuisine":"Indian","cost":4,"inventory":100},
-{"name":"Lid - High Heat, Super Clear","type":"snack","cuisine":"Mediterranean","cost":18,"inventory":100},
-{"name":"Squid Ink","type":"breakfast","cuisine":"Continental","cost":16,"inventory":100},
-{"name":"Extract Vanilla Pure","type":"breakfast","cuisine":"Mediterranean","cost":29,"inventory":100},
-{"name":"Energy Drink - Franks Original","type":"snack","cuisine":"Italian","cost":14,"inventory":100},
-{"name":"Wine - Periguita Fonseca","type":"breakfast","cuisine":"Mediterranean","cost":12,"inventory":100},
-{"name":"Truffle Shells - Semi - Sweet","type":"snack","cuisine":"Indian","cost":1,"inventory":100},
-{"name":"Yogurt - French Vanilla","type":"snack","cuisine":"Continental","cost":3,"inventory":100},
-{"name":"Coffee Cup 8oz 5338cd","type":"snack","cuisine":"Indian","cost":33,"inventory":100},
-{"name":"Guava","type":"breakfast","cuisine":"Mediterranean","cost":30,"inventory":100},
-{"name":"Basil - Primerba, Paste","type":"snack","cuisine":"Mediterranean","cost":19,"inventory":100},
-{"name":"Lamb - Bones","type":"snack","cuisine":"Italian","cost":16,"inventory":100},
-{"name":"Coffee - Colombian, Portioned","type":"breakfast","cuisine":"Continental","cost":28,"inventory":100},
-{"name":"Wine - White, Pinot Grigio","type":"breakfast","cuisine":"Indian","cost":7,"inventory":100},
-{"name":"Puree - Passion Fruit","type":"breakfast","cuisine":"Indian","cost":30,"inventory":100},
-{"name":"Hersey Shakes","type":"snack","cuisine":"Mediterranean","cost":3,"inventory":100},
-{"name":"Capers - Ox Eye Daisy","type":"breakfast","cuisine":"Continental","cost":33,"inventory":100},
-{"name":"Soup - Beef, Base Mix","type":"snack","cuisine":"Continental","cost":33,"inventory":100},
-{"name":"Tea - Darjeeling, Azzura","type":"breakfast","cuisine":"Mediterranean","cost":11,"inventory":100},
-{"name":"Crab - Blue, Frozen","type":"breakfast","cuisine":"Continental","cost":35,"inventory":100},
-{"name":"Urban Zen Drinks","type":"breakfast","cuisine":"Mediterranean","cost":13,"inventory":100},
-{"name":"Cheese - Le Cru Du Clocher","type":"snack","cuisine":"Chinese","cost":6,"inventory":100},
-{"name":"Mix - Cocktail Strawberry Daiquiri","type":"snack","cuisine":"Continental","cost":34,"inventory":100},
-{"name":"Hersey Shakes","type":"snack","cuisine":"Mediterranean","cost":20,"inventory":100},
-{"name":"Artichoke - Bottom, Canned","type":"breakfast","cuisine":"Chinese","cost":29,"inventory":100},
-{"name":"Wonton Wrappers","type":"snack","cuisine":"Chinese","cost":21,"inventory":100},
-{"name":"Tabasco Sauce, 2 Oz","type":"breakfast","cuisine":"Mediterranean","cost":5,"inventory":100},
-{"name":"Jolt Cola - Red Eye","type":"snack","cuisine":"Indian","cost":26,"inventory":100},
-{"name":"Glass Clear 8 Oz","type":"breakfast","cuisine":"Italian","cost":23,"inventory":100},
-{"name":"Bread - Focaccia Quarter","type":"breakfast","cuisine":"Mediterranean","cost":4,"inventory":100},
-{"name":"Apple - Royal Gala","type":"breakfast","cuisine":"Italian","cost":29,"inventory":100},
-{"name":"Wine - Remy Pannier Rose","type":"snack","cuisine":"Mediterranean","cost":24,"inventory":100},
-{"name":"Evaporated Milk - Skim","type":"snack","cuisine":"Chinese","cost":31,"inventory":100},
-{"name":"Sherry - Dry","type":"breakfast","cuisine":"Italian","cost":21,"inventory":100},
-{"name":"Rye Special Old","type":"snack","cuisine":"Mediterranean","cost":12,"inventory":100},
-{"name":"Yeast Dry - Fermipan","type":"snack","cuisine":"Chinese","cost":8,"inventory":100},
-{"name":"Tomato Paste","type":"snack","cuisine":"Indian","cost":10,"inventory":100},
-{"name":"Lid Tray - 12in Dome","type":"breakfast","cuisine":"Italian","cost":32,"inventory":100},
-{"name":"Bagel - Whole White Sesame","type":"snack","cuisine":"Indian","cost":23,"inventory":100},
-{"name":"Bread - Burger","type":"breakfast","cuisine":"Chinese","cost":10,"inventory":100},
-{"name":"Extract - Rum","type":"breakfast","cuisine":"Mediterranean","cost":13,"inventory":100},
-{"name":"Tea - Green","type":"breakfast","cuisine":"Italian","cost":29,"inventory":100},
-{"name":"Oregano - Dry, Rubbed","type":"snack","cuisine":"Indian","cost":30,"inventory":100},
-{"name":"Bread - Roll, Whole Wheat","type":"breakfast","cuisine":"Continental","cost":33,"inventory":100},
-{"name":"Yoplait - Strawbrasp Peac","type":"breakfast","cuisine":"Chinese","cost":34,"inventory":100},
-{"name":"Arctic Char - Fillets","type":"breakfast","cuisine":"Indian","cost":20,"inventory":100},
-{"name":"Beef - Tenderlion, Center Cut","type":"breakfast","cuisine":"Mediterranean","cost":21,"inventory":100},
-{"name":"Chips Potato Reg 43g","type":"snack","cuisine":"Indian","cost":35,"inventory":100},
-{"name":"Beans - Fine","type":"snack","cuisine":"Continental","cost":11,"inventory":100},
-{"name":"Beer - Blue","type":"breakfast","cuisine":"Mediterranean","cost":21,"inventory":100},
-{"name":"Lettuce - Frisee","type":"snack","cuisine":"Indian","cost":7,"inventory":100},
-{"name":"Spice - Greek 1 Step","type":"snack","cuisine":"Chinese","cost":32,"inventory":100},
-{"name":"Propel Sport Drink","type":"breakfast","cuisine":"Continental","cost":5,"inventory":100},
-{"name":"Olives - Green, Pitted","type":"breakfast","cuisine":"Mediterranean","cost":2,"inventory":100},
-{"name":"Scallops - U - 10","type":"breakfast","cuisine":"Mediterranean","cost":5,"inventory":100},
-{"name":"Nut - Almond, Blanched, Whole","type":"breakfast","cuisine":"Mediterranean","cost":1,"inventory":100},
-{"name":"Ecolab - Orange Frc, Cleaner","type":"breakfast","cuisine":"Indian","cost":1,"inventory":100},
-{"name":"Jagermeister","type":"snack","cuisine":"Italian","cost":11,"inventory":100},
-{"name":"Capers - Ox Eye Daisy","type":"snack","cuisine":"Indian","cost":31,"inventory":100},
-{"name":"Pastry - Carrot Muffin - Mini","type":"snack","cuisine":"Mediterranean","cost":9,"inventory":100},
-{"name":"Squid - U - 10 Thailand","type":"snack","cuisine":"Italian","cost":14,"inventory":100},
-{"name":"Tomatoes - Cherry","type":"breakfast","cuisine":"Continental","cost":30,"inventory":100},
-{"name":"Taro Root","type":"breakfast","cuisine":"Chinese","cost":13,"inventory":100},
-{"name":"Bread - Hamburger Buns","type":"breakfast","cuisine":"Continental","cost":7,"inventory":100},
-{"name":"Pork - Butt, Boneless","type":"breakfast","cuisine":"Continental","cost":7,"inventory":100},
-{"name":"Cognac - Courvaisier","type":"breakfast","cuisine":"Mediterranean","cost":7,"inventory":100},
-{"name":"Cheese - Roquefort Pappillon","type":"breakfast","cuisine":"Indian","cost":11,"inventory":100},
-{"name":"Blueberries","type":"breakfast","cuisine":"Continental","cost":12,"inventory":100},
-{"name":"Flour - Fast / Rapid","type":"breakfast","cuisine":"Continental","cost":7,"inventory":100},
-{"name":"Spice - Paprika","type":"snack","cuisine":"Mediterranean","cost":25,"inventory":100},
-{"name":"Turkey - Ground. Lean","type":"snack","cuisine":"Chinese","cost":2,"inventory":100},
-{"name":"Beer - Camerons Cream Ale","type":"snack","cuisine":"Indian","cost":24,"inventory":100},
-{"name":"Food Colouring - Pink","type":"snack","cuisine":"Mediterranean","cost":14,"inventory":100},
-{"name":"Bag - Bread, White, Plain","type":"snack","cuisine":"Continental","cost":15,"inventory":100},
-{"name":"Wine - Rosso Toscano Igt","type":"breakfast","cuisine":"Italian","cost":1,"inventory":100},
-{"name":"Rhubarb","type":"breakfast","cuisine":"Italian","cost":30,"inventory":100},
-{"name":"Cranberries - Dry","type":"breakfast","cuisine":"Indian","cost":18,"inventory":100},
-{"name":"Flower - Commercial Spider","type":"breakfast","cuisine":"Continental","cost":31,"inventory":100},
-{"name":"Skirt - 24 Foot","type":"breakfast","cuisine":"Continental","cost":3,"inventory":100},
-{"name":"Wine - Periguita Fonseca","type":"breakfast","cuisine":"Indian","cost":31,"inventory":100},
-{"name":"Nut - Cashews, Whole, Raw","type":"snack","cuisine":"Italian","cost":4,"inventory":100},
-{"name":"Onions - Cooking","type":"snack","cuisine":"Italian","cost":13,"inventory":100},
-{"name":"Turkey - Whole, Fresh","type":"snack","cuisine":"Mediterranean","cost":29,"inventory":100},
-{"name":"Juice - Orange 1.89l","type":"snack","cuisine":"Continental","cost":18,"inventory":100},
-{"name":"Tray - 12in Rnd Blk","type":"snack","cuisine":"Italian","cost":34,"inventory":100},
-{"name":"Mustard - Seed","type":"snack","cuisine":"Mediterranean","cost":12,"inventory":100},
-{"name":"Salt - Table","type":"breakfast","cuisine":"Indian","cost":28,"inventory":100},
-{"name":"Pork - Kidney","type":"breakfast","cuisine":"Chinese","cost":32,"inventory":100},
-{"name":"Nut - Pumpkin Seeds","type":"breakfast","cuisine":"Indian","cost":30,"inventory":100},
-{"name":"Split Peas - Green, Dry","type":"breakfast","cuisine":"Continental","cost":27,"inventory":100},
-{"name":"Ham - Smoked, Bone - In","type":"breakfast","cuisine":"Italian","cost":24,"inventory":100},
-{"name":"Truffle Shells - Semi - Sweet","type":"breakfast","cuisine":"Mediterranean","cost":2,"inventory":100},
-{"name":"Cookies Oatmeal Raisin","type":"snack","cuisine":"Mediterranean","cost":2,"inventory":100},
-{"name":"Lettuce - Baby Salad Greens","type":"breakfast","cuisine":"Indian","cost":16,"inventory":100},
-{"name":"Veal - Nuckle","type":"snack","cuisine":"Mediterranean","cost":6,"inventory":100},
-{"name":"Sherbet - Raspberry","type":"breakfast","cuisine":"Italian","cost":12,"inventory":100},
-{"name":"Pimento - Canned","type":"breakfast","cuisine":"Continental","cost":33,"inventory":100},
-{"name":"Rice - Jasmine Sented","type":"snack","cuisine":"Italian","cost":28,"inventory":100},
-{"name":"Lighter - Bbq","type":"snack","cuisine":"Italian","cost":35,"inventory":100},
-{"name":"Arizona - Plum Green Tea","type":"snack","cuisine":"Chinese","cost":11,"inventory":100},
-{"name":"Pasta - Penne, Rigate, Dry","type":"snack","cuisine":"Continental","cost":2,"inventory":100},
-{"name":"Pepper - Cayenne","type":"breakfast","cuisine":"Indian","cost":12,"inventory":100},
-{"name":"Juice - V8 Splash","type":"breakfast","cuisine":"Continental","cost":3,"inventory":100},
-{"name":"Bread - Raisin Walnut Oval","type":"breakfast","cuisine":"Chinese","cost":6,"inventory":100},
-{"name":"Container - Hngd Cll Blk 7x7x3","type":"snack","cuisine":"Indian","cost":34,"inventory":100},
-{"name":"Cake - Sheet Strawberry","type":"breakfast","cuisine":"Chinese","cost":1,"inventory":100},
-{"name":"Cocoa Butter","type":"breakfast","cuisine":"Indian","cost":7,"inventory":100},
-{"name":"Frangelico","type":"breakfast","cuisine":"Chinese","cost":33,"inventory":100},
-{"name":"Shortbread - Cookie Crumbs","type":"snack","cuisine":"Italian","cost":13,"inventory":100},
-{"name":"C - Plus, Orange","type":"breakfast","cuisine":"Mediterranean","cost":8,"inventory":100},
-{"name":"Turnip - Wax","type":"breakfast","cuisine":"Indian","cost":32,"inventory":100},
-{"name":"Sambuca - Opal Nera","type":"breakfast","cuisine":"Mediterranean","cost":33,"inventory":100},
-{"name":"Nut - Walnut, Pieces","type":"snack","cuisine":"Italian","cost":8,"inventory":100},
-{"name":"Shopper Bag - S - 4","type":"breakfast","cuisine":"Mediterranean","cost":21,"inventory":100},
-{"name":"Carbonated Water - Cherry","type":"snack","cuisine":"Mediterranean","cost":6,"inventory":100},
-{"name":"Soup - Campbells Mushroom","type":"breakfast","cuisine":"Indian","cost":17,"inventory":100},
-{"name":"Cake - French Pear Tart","type":"snack","cuisine":"Chinese","cost":20,"inventory":100},
-{"name":"Chervil - Fresh","type":"breakfast","cuisine":"Italian","cost":10,"inventory":100},
-{"name":"Pizza Pizza Dough","type":"breakfast","cuisine":"Mediterranean","cost":10,"inventory":100},
-{"name":"Cauliflower","type":"breakfast","cuisine":"Italian","cost":6,"inventory":100},
-{"name":"Coconut - Whole","type":"snack","cuisine":"Chinese","cost":5,"inventory":100},
-{"name":"Chicken Breast Halal","type":"snack","cuisine":"Indian","cost":10,"inventory":100},
-{"name":"Juice - Tomato, 48 Oz","type":"snack","cuisine":"Italian","cost":4,"inventory":100},
-{"name":"Sole - Dover, Whole, Fresh","type":"breakfast","cuisine":"Mediterranean","cost":4,"inventory":100},
-{"name":"Potatoes - Idaho 80 Count","type":"breakfast","cuisine":"Mediterranean","cost":26,"inventory":100},
-{"name":"Sausage - Breakfast","type":"breakfast","cuisine":"Mediterranean","cost":29,"inventory":100},
-{"name":"Tendrils - Baby Pea, Organic","type":"snack","cuisine":"Continental","cost":4,"inventory":100},
-{"name":"Egg Patty Fried","type":"breakfast","cuisine":"Mediterranean","cost":12,"inventory":100},
-{"name":"Longos - Grilled Chicken With","type":"breakfast","cuisine":"Continental","cost":4,"inventory":100},
-{"name":"Rye Special Old","type":"breakfast","cuisine":"Italian","cost":32,"inventory":100},
-{"name":"Cinnamon Buns Sticky","type":"breakfast","cuisine":"Italian","cost":3,"inventory":100},
-{"name":"Lid Tray - 16in Dome","type":"breakfast","cuisine":"Continental","cost":33,"inventory":100},
-{"name":"Cut Wakame - Hanawakaba","type":"breakfast","cuisine":"Continental","cost":8,"inventory":100},
-{"name":"Cheese - Mix","type":"snack","cuisine":"Chinese","cost":12,"inventory":100},
-{"name":"Garbag Bags - Black","type":"breakfast","cuisine":"Italian","cost":29,"inventory":100},
-{"name":"Shrimp, Dried, Small / Lb","type":"snack","cuisine":"Indian","cost":1,"inventory":100},
-{"name":"Cornstarch","type":"snack","cuisine":"Mediterranean","cost":27,"inventory":100},
-{"name":"Miso Paste White","type":"breakfast","cuisine":"Indian","cost":21,"inventory":100},
-{"name":"Broom Handle","type":"breakfast","cuisine":"Chinese","cost":32,"inventory":100},
-{"name":"Dragon Fruit","type":"breakfast","cuisine":"Continental","cost":31,"inventory":100},
-{"name":"Cake Sheet Combo Party Pack","type":"snack","cuisine":"Indian","cost":10,"inventory":100},
-{"name":"Beef - Shank","type":"breakfast","cuisine":"Chinese","cost":34,"inventory":100},
-{"name":"Food Colouring - Red","type":"breakfast","cuisine":"Italian","cost":35,"inventory":100},
-{"name":"Beer - Mcauslan Apricot","type":"snack","cuisine":"Mediterranean","cost":31,"inventory":100},
-{"name":"Horseradish - Prepared","type":"snack","cuisine":"Indian","cost":8,"inventory":100},
-{"name":"Cabbage - Green","type":"breakfast","cuisine":"Indian","cost":8,"inventory":100},
-{"name":"Glucose","type":"snack","cuisine":"Chinese","cost":27,"inventory":100},
-{"name":"Cream - 35%","type":"snack","cuisine":"Chinese","cost":25,"inventory":100},
-{"name":"Bar Mix - Lemon","type":"breakfast","cuisine":"Chinese","cost":32,"inventory":100},
-{"name":"Pepper - Roasted Red","type":"snack","cuisine":"Italian","cost":32,"inventory":100},
-{"name":"Tomatoes - Cherry","type":"breakfast","cuisine":"Indian","cost":21,"inventory":100},
-{"name":"Tea - Herbal - 6 Asst","type":"snack","cuisine":"Italian","cost":4,"inventory":100},
-{"name":"Crackers - Melba Toast","type":"snack","cuisine":"Chinese","cost":31,"inventory":100},
-{"name":"Sausage - Liver","type":"snack","cuisine":"Indian","cost":23,"inventory":100},
-{"name":"Pasta - Lasagna, Dry","type":"breakfast","cuisine":"Chinese","cost":1,"inventory":100},
-{"name":"Snails - Large Canned","type":"breakfast","cuisine":"Mediterranean","cost":14,"inventory":100},
-{"name":"Piping Jelly - All Colours","type":"breakfast","cuisine":"Continental","cost":21,"inventory":100},
-{"name":"Mushroom - Portebello","type":"breakfast","cuisine":"Indian","cost":29,"inventory":100},
-{"name":"Cabbage - Green","type":"snack","cuisine":"Continental","cost":35,"inventory":100},
-{"name":"Doilies - 8, Paper","type":"breakfast","cuisine":"Continental","cost":24,"inventory":100},
-{"name":"Cod - Fillets","type":"breakfast","cuisine":"Mediterranean","cost":24,"inventory":100},
-{"name":"Wine - Sherry Dry Sack, William","type":"breakfast","cuisine":"Mediterranean","cost":19,"inventory":100},
-{"name":"Oregano - Dry, Rubbed","type":"snack","cuisine":"Continental","cost":24,"inventory":100},
-{"name":"Tea - Herbal - 6 Asst","type":"snack","cuisine":"Indian","cost":10,"inventory":100},
-{"name":"Bread - Multigrain Oval","type":"breakfast","cuisine":"Mediterranean","cost":3,"inventory":100},
-{"name":"Bread - Bagels, Mini","type":"snack","cuisine":"Mediterranean","cost":4,"inventory":100},
-{"name":"Mangoes","type":"snack","cuisine":"Mediterranean","cost":20,"inventory":100},
-{"name":"Langers - Ruby Red Grapfruit","type":"snack","cuisine":"Continental","cost":19,"inventory":100},
-{"name":"Chocolate - Pistoles, Lactee, Milk","type":"snack","cuisine":"Indian","cost":25,"inventory":100},
-{"name":"Fib N9 - Prague Powder","type":"snack","cuisine":"Italian","cost":4,"inventory":100},
-{"name":"Nut - Walnut, Chopped","type":"breakfast","cuisine":"Chinese","cost":33,"inventory":100},
-{"name":"Puree - Passion Fruit","type":"snack","cuisine":"Mediterranean","cost":22,"inventory":100},
-{"name":"Hinge W Undercut","type":"breakfast","cuisine":"Chinese","cost":11,"inventory":100},
-{"name":"Soup - French Onion, Dry","type":"breakfast","cuisine":"Chinese","cost":7,"inventory":100},
-{"name":"Scampi Tail","type":"breakfast","cuisine":"Chinese","cost":20,"inventory":100},
-{"name":"Cheese - Comtomme","type":"breakfast","cuisine":"Italian","cost":1,"inventory":100},
-{"name":"Wine - Toasted Head","type":"breakfast","cuisine":"Indian","cost":24,"inventory":100},
-{"name":"Cookie - Oatmeal","type":"breakfast","cuisine":"Continental","cost":29,"inventory":100},
-{"name":"Liqueur Banana, Ramazzotti","type":"breakfast","cuisine":"Chinese","cost":25,"inventory":100},
-{"name":"Wine - Prosecco Valdobiaddene","type":"breakfast","cuisine":"Chinese","cost":11,"inventory":100},
-{"name":"Tomato - Green","type":"breakfast","cuisine":"Continental","cost":7,"inventory":100},
-{"name":"Cheese - Oka","type":"breakfast","cuisine":"Indian","cost":13,"inventory":100},
-{"name":"Salami - Genova","type":"snack","cuisine":"Indian","cost":24,"inventory":100},
-{"name":"Cake - Pancake","type":"snack","cuisine":"Continental","cost":7,"inventory":100},
-{"name":"Chocolate - Feathers","type":"breakfast","cuisine":"Indian","cost":4,"inventory":100},
-{"name":"Chinese Foods - Thick Noodles","type":"snack","cuisine":"Mediterranean","cost":29,"inventory":100},
-{"name":"Wine - Remy Pannier Rose","type":"snack","cuisine":"Indian","cost":28,"inventory":100},
-{"name":"Cookies Almond Hazelnut","type":"breakfast","cuisine":"Continental","cost":10,"inventory":100},
-{"name":"Contreau","type":"snack","cuisine":"Chinese","cost":30,"inventory":100},
-{"name":"Bread Foccacia Whole","type":"breakfast","cuisine":"Chinese","cost":10,"inventory":100},
-{"name":"Flour - Semolina","type":"snack","cuisine":"Continental","cost":12,"inventory":100},
-{"name":"Melon - Honey Dew","type":"breakfast","cuisine":"Italian","cost":20,"inventory":100},
-{"name":"Salt - Celery","type":"breakfast","cuisine":"Indian","cost":18,"inventory":100},
-{"name":"Vinegar - Champagne","type":"snack","cuisine":"Mediterranean","cost":12,"inventory":100},
-{"name":"Saskatoon Berries - Frozen","type":"breakfast","cuisine":"Indian","cost":14,"inventory":100},
-{"name":"Container - Clear 32 Oz","type":"snack","cuisine":"Indian","cost":19,"inventory":100},
-{"name":"Juice Peach Nectar","type":"breakfast","cuisine":"Indian","cost":16,"inventory":100},
-{"name":"Relish","type":"breakfast","cuisine":"Mediterranean","cost":14,"inventory":100},
-{"name":"Sauce - Caesar Dressing","type":"breakfast","cuisine":"Chinese","cost":24,"inventory":100},
-{"name":"Miso - Soy Bean Paste","type":"snack","cuisine":"Continental","cost":2,"inventory":100},
-{"name":"Table Cloth 144x90 White","type":"snack","cuisine":"Mediterranean","cost":24,"inventory":100},
-{"name":"Chinese Foods - Pepper Beef","type":"snack","cuisine":"Indian","cost":32,"inventory":100},
-{"name":"Cake - Night And Day Choclate","type":"breakfast","cuisine":"Mediterranean","cost":30,"inventory":100},
-{"name":"Lid - 10,12,16 Oz","type":"breakfast","cuisine":"Mediterranean","cost":24,"inventory":100},
-{"name":"Coffee - Irish Cream","type":"breakfast","cuisine":"Chinese","cost":1,"inventory":100},
-{"name":"Milk - Chocolate 500ml","type":"breakfast","cuisine":"Mediterranean","cost":30,"inventory":100},
-{"name":"Chips Potato Reg 43g","type":"breakfast","cuisine":"Chinese","cost":13,"inventory":100},
-{"name":"Wine - Puligny Montrachet A.","type":"snack","cuisine":"Mediterranean","cost":6,"inventory":100},
-{"name":"Beer - Blue Light","type":"breakfast","cuisine":"Mediterranean","cost":31,"inventory":100},
-{"name":"Wine - Jafflin Bourgongone","type":"breakfast","cuisine":"Mediterranean","cost":14,"inventory":100},
-{"name":"Soup Campbells","type":"breakfast","cuisine":"Mediterranean","cost":32,"inventory":100},
-{"name":"Bay Leaf Ground","type":"snack","cuisine":"Chinese","cost":26,"inventory":100},
-{"name":"Wine - Red, Marechal Foch","type":"snack","cuisine":"Mediterranean","cost":31,"inventory":100},
-{"name":"Apples - Sliced / Wedge","type":"snack","cuisine":"Italian","cost":31,"inventory":100},
-{"name":"Longos - Chicken Cordon Bleu","type":"snack","cuisine":"Mediterranean","cost":35,"inventory":100},
-{"name":"Salmon - Smoked, Sliced","type":"breakfast","cuisine":"Continental","cost":18,"inventory":100},
-{"name":"Grapefruit - White","type":"breakfast","cuisine":"Indian","cost":14,"inventory":100},
-{"name":"Soup - Campbells Tomato Ravioli","type":"snack","cuisine":"Italian","cost":6,"inventory":100},
-{"name":"Olives - Nicoise","type":"breakfast","cuisine":"Indian","cost":1,"inventory":100},
-{"name":"Shrimp - Black Tiger 6 - 8","type":"breakfast","cuisine":"Continental","cost":26,"inventory":100},
-{"name":"Sour Puss - Tangerine","type":"snack","cuisine":"Italian","cost":10,"inventory":100},
-{"name":"Icecream Cone - Areo Chocolate","type":"breakfast","cuisine":"Indian","cost":26,"inventory":100},
-{"name":"Dooleys Toffee","type":"snack","cuisine":"Continental","cost":8,"inventory":100},
-{"name":"Ecolab - Balanced Fusion","type":"breakfast","cuisine":"Indian","cost":14,"inventory":100},
-{"name":"Wine - Conde De Valdemar","type":"snack","cuisine":"Indian","cost":35,"inventory":100},
-{"name":"Swiss Chard - Red","type":"snack","cuisine":"Mediterranean","cost":11,"inventory":100},
-{"name":"Filling - Mince Meat","type":"breakfast","cuisine":"Chinese","cost":14,"inventory":100},
-{"name":"Turkey Tenderloin Frozen","type":"breakfast","cuisine":"Continental","cost":26,"inventory":100},
-{"name":"Bread - French Baquette","type":"snack","cuisine":"Continental","cost":8,"inventory":100},
-{"name":"Fish - Base, Bouillion","type":"snack","cuisine":"Chinese","cost":14,"inventory":100},
-{"name":"Pie Shell - 9","type":"snack","cuisine":"Mediterranean","cost":29,"inventory":100},
-{"name":"Nescafe - Frothy French Vanilla","type":"breakfast","cuisine":"Italian","cost":24,"inventory":100},
-{"name":"Juice - Orange 1.89l","type":"breakfast","cuisine":"Italian","cost":27,"inventory":100},
-{"name":"Longos - Chicken Curried","type":"breakfast","cuisine":"Italian","cost":10,"inventory":100},
-{"name":"Amarula Cream","type":"snack","cuisine":"Italian","cost":6,"inventory":100},
-{"name":"Banana - Green","type":"snack","cuisine":"Continental","cost":23,"inventory":100},
-{"name":"Thyme - Lemon, Fresh","type":"snack","cuisine":"Italian","cost":2,"inventory":100},
-{"name":"Carbonated Water - Orange","type":"snack","cuisine":"Italian","cost":35,"inventory":100},
-{"name":"Grapefruit - Pink","type":"breakfast","cuisine":"Indian","cost":33,"inventory":100},
-{"name":"Quail Eggs - Canned","type":"snack","cuisine":"Chinese","cost":22,"inventory":100},
-{"name":"Beer - Blue","type":"breakfast","cuisine":"Indian","cost":16,"inventory":100},
-{"name":"Lid - 16 Oz And 32 Oz","type":"breakfast","cuisine":"Indian","cost":2,"inventory":100},
-{"name":"Arctic Char - Fresh, Whole","type":"breakfast","cuisine":"Mediterranean","cost":24,"inventory":100},
-{"name":"Coffee - 10oz Cup 92961","type":"snack","cuisine":"Italian","cost":34,"inventory":100},
-{"name":"Huck Towels White","type":"breakfast","cuisine":"Indian","cost":23,"inventory":100},
-{"name":"Haggis","type":"breakfast","cuisine":"Mediterranean","cost":25,"inventory":100},
-{"name":"Apple - Custard","type":"snack","cuisine":"Italian","cost":7,"inventory":100},
-{"name":"Sauce - Marinara","type":"snack","cuisine":"Italian","cost":4,"inventory":100},
-{"name":"Bar Energy Chocchip","type":"snack","cuisine":"Continental","cost":6,"inventory":100},
-{"name":"Browning Caramel Glace","type":"snack","cuisine":"Continental","cost":24,"inventory":100},
-{"name":"Pork - Smoked Kassler","type":"snack","cuisine":"Indian","cost":15,"inventory":100},
-{"name":"Truffle Paste","type":"snack","cuisine":"Chinese","cost":30,"inventory":100},
-{"name":"Tilapia - Fillets","type":"breakfast","cuisine":"Continental","cost":11,"inventory":100},
-{"name":"Shopper Bag - S - 4","type":"snack","cuisine":"Mediterranean","cost":10,"inventory":100},
-{"name":"Water - Spring Water, 355 Ml","type":"breakfast","cuisine":"Continental","cost":3,"inventory":100},
-{"name":"Milk - Buttermilk","type":"breakfast","cuisine":"Chinese","cost":20,"inventory":100},
-{"name":"Bagels Poppyseed","type":"breakfast","cuisine":"Chinese","cost":20,"inventory":100},
-{"name":"Chocolate - Milk","type":"snack","cuisine":"Indian","cost":8,"inventory":100},
-{"name":"Cookie Dough - Peanut Butter","type":"breakfast","cuisine":"Chinese","cost":14,"inventory":100},
-{"name":"Appetizer - Tarragon Chicken","type":"snack","cuisine":"Chinese","cost":3,"inventory":100},
-{"name":"Brownies - Two Bite, Chocolate","type":"snack","cuisine":"Indian","cost":4,"inventory":100},
-{"name":"Eggplant - Baby","type":"breakfast","cuisine":"Indian","cost":13,"inventory":100},
-{"name":"Sponge Cake Mix - Chocolate","type":"breakfast","cuisine":"Mediterranean","cost":16,"inventory":100},
-{"name":"Apples - Sliced / Wedge","type":"breakfast","cuisine":"Italian","cost":14,"inventory":100},
-{"name":"Foam Espresso Cup Plain White","type":"snack","cuisine":"Mediterranean","cost":23,"inventory":100},
-{"name":"Pea - Snow","type":"snack","cuisine":"Continental","cost":9,"inventory":100},
-{"name":"Ecolab Digiclean Mild Fm","type":"snack","cuisine":"Mediterranean","cost":7,"inventory":100},
-{"name":"Wine - Chianti Classico Riserva","type":"breakfast","cuisine":"Italian","cost":33,"inventory":100},
-{"name":"Soup - Clam Chowder, Dry Mix","type":"breakfast","cuisine":"Indian","cost":12,"inventory":100},
-{"name":"Cheese - Pied De Vents","type":"snack","cuisine":"Italian","cost":27,"inventory":100},
-{"name":"Mushroom - Chanterelle Frozen","type":"snack","cuisine":"Chinese","cost":8,"inventory":100},
-{"name":"Tomato - Tricolor Cherry","type":"snack","cuisine":"Indian","cost":21,"inventory":100},
-{"name":"Sauce - Vodka Blush","type":"breakfast","cuisine":"Italian","cost":11,"inventory":100},
-{"name":"Soup - Campbells Bean Medley","type":"breakfast","cuisine":"Italian","cost":15,"inventory":100},
-{"name":"Bandage - Fexible 1x3","type":"snack","cuisine":"Mediterranean","cost":2,"inventory":100},
-{"name":"Star Anise, Whole","type":"snack","cuisine":"Chinese","cost":2,"inventory":100},
-{"name":"Cups 10oz Trans","type":"breakfast","cuisine":"Chinese","cost":2,"inventory":100},
-{"name":"Beer - Camerons Cream Ale","type":"snack","cuisine":"Italian","cost":6,"inventory":100},
-{"name":"Vinegar - Red Wine","type":"snack","cuisine":"Indian","cost":32,"inventory":100},
-{"name":"Soup - Beef Conomme, Dry","type":"snack","cuisine":"Indian","cost":23,"inventory":100},
-{"name":"Wine - Alicanca Vinho Verde","type":"breakfast","cuisine":"Continental","cost":14,"inventory":100},
-{"name":"Pasta - Cannelloni, Sheets, Fresh","type":"snack","cuisine":"Chinese","cost":10,"inventory":100},
-{"name":"Coffee - Hazelnut Cream","type":"breakfast","cuisine":"Chinese","cost":1,"inventory":100},
-{"name":"Nori Sea Weed","type":"breakfast","cuisine":"Mediterranean","cost":14,"inventory":100},
-{"name":"Pork Ham Prager","type":"breakfast","cuisine":"Italian","cost":19,"inventory":100},
-{"name":"Bread - 10 Grain","type":"snack","cuisine":"Continental","cost":10,"inventory":100},
-{"name":"Pepper - Scotch Bonnet","type":"snack","cuisine":"Indian","cost":35,"inventory":100},
-{"name":"Wine - Red, Marechal Foch","type":"snack","cuisine":"Mediterranean","cost":18,"inventory":100},
-{"name":"Sugar - Sweet N Low, Individual","type":"snack","cuisine":"Mediterranean","cost":4,"inventory":100},
-{"name":"Wine - Chateau Timberlay","type":"breakfast","cuisine":"Continental","cost":5,"inventory":100},
-{"name":"Wine - White, French Cross","type":"breakfast","cuisine":"Indian","cost":9,"inventory":100},
-{"name":"Lamb Rack Frenched Australian","type":"breakfast","cuisine":"Continental","cost":22,"inventory":100},
-{"name":"Basil - Seedlings Cookstown","type":"snack","cuisine":"Italian","cost":8,"inventory":100},
-{"name":"Yogurt - Raspberry, 175 Gr","type":"breakfast","cuisine":"Indian","cost":22,"inventory":100},
-{"name":"Pie Pecan","type":"snack","cuisine":"Continental","cost":16,"inventory":100},
-{"name":"Paste - Black Olive","type":"breakfast","cuisine":"Indian","cost":4,"inventory":100},
-{"name":"Hand Towel","type":"snack","cuisine":"Continental","cost":7,"inventory":100},
-{"name":"Veal - Tenderloin, Untrimmed","type":"breakfast","cuisine":"Chinese","cost":30,"inventory":100},
-{"name":"Fish - Artic Char, Cold Smoked","type":"breakfast","cuisine":"Mediterranean","cost":35,"inventory":100},
-{"name":"Apron","type":"snack","cuisine":"Continental","cost":34,"inventory":100},
-{"name":"Pepper - Green Thai","type":"snack","cuisine":"Mediterranean","cost":18,"inventory":100},
-{"name":"Cup - 6oz, Foam","type":"snack","cuisine":"Italian","cost":5,"inventory":100},
-{"name":"Yoplait - Strawbrasp Peac","type":"snack","cuisine":"Italian","cost":33,"inventory":100},
-{"name":"Bacardi Breezer - Strawberry","type":"snack","cuisine":"Chinese","cost":35,"inventory":100},
-{"name":"Zucchini - Mini, Green","type":"snack","cuisine":"Mediterranean","cost":4,"inventory":100},
-{"name":"Pasta - Lasagne, Fresh","type":"breakfast","cuisine":"Italian","cost":24,"inventory":100},
-{"name":"Yogurt - Cherry, 175 Gr","type":"breakfast","cuisine":"Indian","cost":23,"inventory":100},
-{"name":"Steamers White","type":"snack","cuisine":"Italian","cost":31,"inventory":100},
-{"name":"Lettuce - Green Leaf","type":"snack","cuisine":"Continental","cost":1,"inventory":100},
-{"name":"Tart Shells - Savory, 4","type":"snack","cuisine":"Italian","cost":8,"inventory":100},
-{"name":"Drambuie","type":"breakfast","cuisine":"Indian","cost":11,"inventory":100},
-{"name":"Lettuce - Romaine, Heart","type":"snack","cuisine":"Indian","cost":33,"inventory":100},
-{"name":"Crab - Soft Shell","type":"snack","cuisine":"Italian","cost":6,"inventory":100},
-{"name":"Shrimp - 16/20, Peeled Deviened","type":"breakfast","cuisine":"Chinese","cost":11,"inventory":100},
-{"name":"Pork - Loin, Boneless","type":"breakfast","cuisine":"Chinese","cost":3,"inventory":100},
-{"name":"Pork - Inside","type":"breakfast","cuisine":"Italian","cost":18,"inventory":100},
-{"name":"Milk - Chocolate 500ml","type":"breakfast","cuisine":"Indian","cost":35,"inventory":100},
-{"name":"Sole - Dover, Whole, Fresh","type":"breakfast","cuisine":"Italian","cost":8,"inventory":100},
-{"name":"Cheese - Goat","type":"breakfast","cuisine":"Chinese","cost":32,"inventory":100},
-{"name":"Seedlings - Buckwheat, Organic","type":"breakfast","cuisine":"Continental","cost":4,"inventory":100},
-{"name":"Smoked Tongue","type":"snack","cuisine":"Italian","cost":8,"inventory":100},
-{"name":"Huck White Towels","type":"breakfast","cuisine":"Mediterranean","cost":25,"inventory":100},
-{"name":"Remy Red","type":"snack","cuisine":"Mediterranean","cost":30,"inventory":100},
-{"name":"Nut - Pistachio, Shelled","type":"breakfast","cuisine":"Continental","cost":1,"inventory":100},
-{"name":"Paste - Black Olive","type":"snack","cuisine":"Chinese","cost":13,"inventory":100},
-{"name":"Scotch - Queen Anne","type":"snack","cuisine":"Mediterranean","cost":21,"inventory":100},
-{"name":"Mackerel Whole Fresh","type":"breakfast","cuisine":"Indian","cost":2,"inventory":100},
-{"name":"Pimento - Canned","type":"breakfast","cuisine":"Mediterranean","cost":7,"inventory":100},
-{"name":"Sauce - Marinara","type":"breakfast","cuisine":"Chinese","cost":28,"inventory":100},
-{"name":"Lamb - Leg, Diced","type":"breakfast","cuisine":"Chinese","cost":34,"inventory":100},
-{"name":"Bandage - Fexible 1x3","type":"snack","cuisine":"Mediterranean","cost":25,"inventory":100},
-{"name":"Onions - Cippolini","type":"breakfast","cuisine":"Mediterranean","cost":32,"inventory":100},
-{"name":"Lemonade - Black Cherry, 591 Ml","type":"snack","cuisine":"Italian","cost":21,"inventory":100},
-{"name":"Cup - Paper 10oz 92959","type":"breakfast","cuisine":"Mediterranean","cost":23,"inventory":100},
-{"name":"Pancetta","type":"breakfast","cuisine":"Continental","cost":11,"inventory":100},
-{"name":"Bagel - Plain","type":"breakfast","cuisine":"Mediterranean","cost":9,"inventory":100},
-{"name":"Oil - Truffle, White","type":"snack","cuisine":"Continental","cost":17,"inventory":100},
-{"name":"Chocolate - Semi Sweet","type":"breakfast","cuisine":"Continental","cost":25,"inventory":100},
-{"name":"Oyster - In Shell","type":"snack","cuisine":"Mediterranean","cost":9,"inventory":100},
-{"name":"Pork - Belly Fresh","type":"breakfast","cuisine":"Mediterranean","cost":24,"inventory":100},
-{"name":"Bag Stand","type":"breakfast","cuisine":"Indian","cost":30,"inventory":100},
-{"name":"Wine - Fat Bastard Merlot","type":"snack","cuisine":"Chinese","cost":29,"inventory":100},
-{"name":"Radish","type":"breakfast","cuisine":"Indian","cost":16,"inventory":100},
-{"name":"Cabbage - Red","type":"snack","cuisine":"Italian","cost":31,"inventory":100},
-{"name":"Vinegar - Champagne","type":"breakfast","cuisine":"Chinese","cost":33,"inventory":100},
-{"name":"Pasta - Cheese / Spinach Bauletti","type":"breakfast","cuisine":"Mediterranean","cost":15,"inventory":100},
-{"name":"Food Colouring - Green","type":"snack","cuisine":"Italian","cost":27,"inventory":100},
-{"name":"Wine - Soave Folonari","type":"breakfast","cuisine":"Italian","cost":6,"inventory":100},
-{"name":"Bread - Pita","type":"breakfast","cuisine":"Mediterranean","cost":11,"inventory":100},
-{"name":"Bamboo Shoots - Sliced","type":"breakfast","cuisine":"Indian","cost":29,"inventory":100},
-{"name":"Food Colouring - Blue","type":"breakfast","cuisine":"Mediterranean","cost":15,"inventory":100},
-{"name":"Crab - Blue, Frozen","type":"breakfast","cuisine":"Mediterranean","cost":25,"inventory":100},
-{"name":"Ostrich - Prime Cut","type":"breakfast","cuisine":"Mediterranean","cost":5,"inventory":100},
-{"name":"Pork - Smoked Kassler","type":"breakfast","cuisine":"Continental","cost":30,"inventory":100},
-{"name":"Evaporated Milk - Skim","type":"snack","cuisine":"Indian","cost":7,"inventory":100},
-{"name":"Pate - Liver","type":"snack","cuisine":"Chinese","cost":14,"inventory":100},
-{"name":"Flour Pastry Super Fine","type":"snack","cuisine":"Mediterranean","cost":16,"inventory":100},
-{"name":"Fork - Plastic","type":"snack","cuisine":"Mediterranean","cost":24,"inventory":100},
-{"name":"Initation Crab Meat","type":"snack","cuisine":"Mediterranean","cost":14,"inventory":100},
-{"name":"Ice Cream - Turtles Stick Bar","type":"breakfast","cuisine":"Indian","cost":5,"inventory":100},
-{"name":"Corn Meal","type":"breakfast","cuisine":"Indian","cost":2,"inventory":100},
-{"name":"Bread - Granary Small Pull","type":"breakfast","cuisine":"Indian","cost":32,"inventory":100},
-{"name":"Wine - Prosecco Valdobiaddene","type":"breakfast","cuisine":"Italian","cost":30,"inventory":100},
-{"name":"Veal - Brisket, Provimi,bnls","type":"snack","cuisine":"Italian","cost":31,"inventory":100},
-{"name":"Pork - Chop, Frenched","type":"breakfast","cuisine":"Indian","cost":29,"inventory":100},
-{"name":"Versatainer Nc - 888","type":"breakfast","cuisine":"Indian","cost":30,"inventory":100},
-{"name":"True - Vue Containers","type":"snack","cuisine":"Italian","cost":21,"inventory":100},
-{"name":"Wine - Cousino Macul Antiguas","type":"snack","cuisine":"Mediterranean","cost":2,"inventory":100},
-{"name":"Honey - Lavender","type":"breakfast","cuisine":"Italian","cost":22,"inventory":100},
-{"name":"Garlic - Primerba, Paste","type":"breakfast","cuisine":"Continental","cost":15,"inventory":100},
-{"name":"Chicken - Bones","type":"snack","cuisine":"Chinese","cost":12,"inventory":100},
-{"name":"Sauce - Black Current, Dry Mix","type":"breakfast","cuisine":"Italian","cost":30,"inventory":100},
-{"name":"Lamb - Loin Chops","type":"breakfast","cuisine":"Chinese","cost":14,"inventory":100},
-{"name":"Island Oasis - Pina Colada","type":"breakfast","cuisine":"Chinese","cost":4,"inventory":100},
-{"name":"Frangelico","type":"breakfast","cuisine":"Italian","cost":26,"inventory":100},
-{"name":"Lettuce - Belgian Endive","type":"breakfast","cuisine":"Italian","cost":30,"inventory":100},
-{"name":"Crab - Meat Combo","type":"snack","cuisine":"Chinese","cost":7,"inventory":100},
-{"name":"Beer - Muskoka Cream Ale","type":"snack","cuisine":"Indian","cost":10,"inventory":100},
-{"name":"Wine - Harrow Estates, Vidal","type":"breakfast","cuisine":"Mediterranean","cost":11,"inventory":100},
-{"name":"Papayas","type":"snack","cuisine":"Indian","cost":1,"inventory":100},
-{"name":"Rice - Sushi","type":"snack","cuisine":"Continental","cost":21,"inventory":100},
-{"name":"Temperature Recording Station","type":"snack","cuisine":"Indian","cost":35,"inventory":100},
-{"name":"Rabbit - Frozen","type":"snack","cuisine":"Continental","cost":27,"inventory":100},
-{"name":"Vaccum Bag - 14x20","type":"breakfast","cuisine":"Italian","cost":30,"inventory":100},
-{"name":"Energy Drink - Franks Original","type":"snack","cuisine":"Indian","cost":34,"inventory":100},
-{"name":"Liqueur Banana, Ramazzotti","type":"breakfast","cuisine":"Mediterranean","cost":13,"inventory":100},
-{"name":"Coconut Milk - Unsweetened","type":"breakfast","cuisine":"Italian","cost":13,"inventory":100},
-{"name":"Beer - Moosehead","type":"snack","cuisine":"Indian","cost":19,"inventory":100},
-{"name":"Crackers - Soda / Saltins","type":"snack","cuisine":"Italian","cost":17,"inventory":100},
-{"name":"Tahini Paste","type":"breakfast","cuisine":"Italian","cost":16,"inventory":100},
-{"name":"Wine - White, Riesling, Henry Of","type":"snack","cuisine":"Indian","cost":34,"inventory":100},
-{"name":"Salami - Genova","type":"breakfast","cuisine":"Chinese","cost":28,"inventory":100},
-{"name":"Jolt Cola - Red Eye","type":"breakfast","cuisine":"Indian","cost":6,"inventory":100},
-{"name":"Tea - Mint","type":"snack","cuisine":"Italian","cost":18,"inventory":100},
-{"name":"Longos - Chicken Cordon Bleu","type":"breakfast","cuisine":"Italian","cost":29,"inventory":100},
-{"name":"Eggs - Extra Large","type":"breakfast","cuisine":"Continental","cost":22,"inventory":100},
-{"name":"Carroway Seed","type":"breakfast","cuisine":"Italian","cost":35,"inventory":100},
-{"name":"Soy Protein","type":"snack","cuisine":"Mediterranean","cost":1,"inventory":100},
-{"name":"Cornflakes","type":"snack","cuisine":"Indian","cost":17,"inventory":100},
-{"name":"Sandwich Wrap","type":"breakfast","cuisine":"Continental","cost":21,"inventory":100},
-{"name":"Brandy - Orange, Mc Guiness","type":"breakfast","cuisine":"Mediterranean","cost":7,"inventory":100},
-{"name":"Bread Base - Goodhearth","type":"snack","cuisine":"Mediterranean","cost":17,"inventory":100},
-{"name":"Appetizer - Chicken Satay","type":"snack","cuisine":"Italian","cost":33,"inventory":100},
-{"name":"Bread Cranberry Foccacia","type":"snack","cuisine":"Mediterranean","cost":34,"inventory":100},
-{"name":"Pie Shell - 5","type":"breakfast","cuisine":"Chinese","cost":34,"inventory":100},
-{"name":"Pastry - French Mini Assorted","type":"breakfast","cuisine":"Chinese","cost":3,"inventory":100},
-{"name":"Coconut - Whole","type":"snack","cuisine":"Indian","cost":22,"inventory":100},
-{"name":"Lamb - Shanks","type":"breakfast","cuisine":"Chinese","cost":31,"inventory":100},
-{"name":"Banana - Leaves","type":"breakfast","cuisine":"Chinese","cost":2,"inventory":100},
-{"name":"Beef - Tenderloin - Aa","type":"snack","cuisine":"Continental","cost":15,"inventory":100},
-{"name":"Lamb Tenderloin Nz Fr","type":"breakfast","cuisine":"Mediterranean","cost":21,"inventory":100},
-{"name":"Water - Mineral, Natural","type":"snack","cuisine":"Continental","cost":33,"inventory":100},
-{"name":"Bagel - Plain","type":"snack","cuisine":"Indian","cost":3,"inventory":100},
-{"name":"Chicken - Base","type":"snack","cuisine":"Mediterranean","cost":16,"inventory":100},
-{"name":"Carbonated Water - Blackcherry","type":"snack","cuisine":"Continental","cost":23,"inventory":100},
-{"name":"Cheese - Mozzarella, Shredded","type":"breakfast","cuisine":"Continental","cost":12,"inventory":100},
-{"name":"Leeks - Large","type":"breakfast","cuisine":"Italian","cost":5,"inventory":100},
-{"name":"Bread - Pita, Mini","type":"snack","cuisine":"Italian","cost":21,"inventory":100},
-{"name":"Oil - Coconut","type":"snack","cuisine":"Mediterranean","cost":20,"inventory":100},
-{"name":"Beef - Short Loin","type":"breakfast","cuisine":"Italian","cost":28,"inventory":100},
-{"name":"Icecream - Dstk Cml And Fdg","type":"breakfast","cuisine":"Chinese","cost":5,"inventory":100},
-{"name":"Bread Cranberry Foccacia","type":"breakfast","cuisine":"Continental","cost":10,"inventory":100},
-{"name":"Wine - Magnotta - Cab Franc","type":"breakfast","cuisine":"Chinese","cost":3,"inventory":100},
-{"name":"Ham Black Forest","type":"snack","cuisine":"Continental","cost":29,"inventory":100},
-{"name":"Veal - Striploin","type":"snack","cuisine":"Italian","cost":24,"inventory":100},
-{"name":"Salmon - Whole, 4 - 6 Pounds","type":"snack","cuisine":"Mediterranean","cost":7,"inventory":100},
-{"name":"Mcguinness - Blue Curacao","type":"breakfast","cuisine":"Continental","cost":29,"inventory":100},
-{"name":"Lobster - Tail 6 Oz","type":"snack","cuisine":"Indian","cost":30,"inventory":100},
-{"name":"Bacardi Breezer - Tropical","type":"breakfast","cuisine":"Continental","cost":34,"inventory":100},
-{"name":"Alize Red Passion","type":"breakfast","cuisine":"Continental","cost":4,"inventory":100},
-{"name":"Tart Shells - Sweet, 2","type":"breakfast","cuisine":"Italian","cost":5,"inventory":100},
-{"name":"Flour - Bread","type":"snack","cuisine":"Chinese","cost":26,"inventory":100},
-{"name":"Truffle Cups - Red","type":"snack","cuisine":"Indian","cost":12,"inventory":100},
-{"name":"Beef - Tender Tips","type":"breakfast","cuisine":"Continental","cost":16,"inventory":100},
-{"name":"Mikes Hard Lemonade","type":"breakfast","cuisine":"Mediterranean","cost":15,"inventory":100},
-{"name":"Soup - Knorr, Classic Can. Chili","type":"snack","cuisine":"Chinese","cost":31,"inventory":100},
-{"name":"Cookie Dough - Double","type":"snack","cuisine":"Indian","cost":6,"inventory":100},
-{"name":"Vinegar - Cider","type":"snack","cuisine":"Indian","cost":22,"inventory":100},
-{"name":"Lettuce - Iceberg","type":"snack","cuisine":"Italian","cost":26,"inventory":100},
-{"name":"Mackerel Whole Fresh","type":"snack","cuisine":"Italian","cost":7,"inventory":100},
-{"name":"Stainless Steel Cleaner Vision","type":"breakfast","cuisine":"Chinese","cost":11,"inventory":100},
-{"name":"Bag Clear 10 Lb","type":"breakfast","cuisine":"Mediterranean","cost":2,"inventory":100},
-{"name":"Oil - Pumpkinseed","type":"breakfast","cuisine":"Italian","cost":8,"inventory":100},
-{"name":"Soup - Campbells Chili","type":"snack","cuisine":"Chinese","cost":8,"inventory":100},
-{"name":"Pail For Lid 1537","type":"snack","cuisine":"Continental","cost":24,"inventory":100},
-{"name":"Lettuce - Boston Bib","type":"breakfast","cuisine":"Indian","cost":9,"inventory":100},
-{"name":"Danishes - Mini Cheese","type":"snack","cuisine":"Chinese","cost":7,"inventory":100},
-{"name":"Carbonated Water - Lemon Lime","type":"snack","cuisine":"Continental","cost":15,"inventory":100},
-{"name":"Table Cloth 53x53 White","type":"snack","cuisine":"Continental","cost":20,"inventory":100},
-{"name":"Capicola - Hot","type":"snack","cuisine":"Indian","cost":13,"inventory":100},
-{"name":"Spaghetti Squash","type":"snack","cuisine":"Chinese","cost":35,"inventory":100},
-{"name":"Skewers - Bamboo","type":"breakfast","cuisine":"Mediterranean","cost":9,"inventory":100},
-{"name":"Butter - Unsalted","type":"breakfast","cuisine":"Continental","cost":26,"inventory":100},
-{"name":"Beans - Turtle, Black, Dry","type":"breakfast","cuisine":"Italian","cost":5,"inventory":100},
-{"name":"Bread - Granary Small Pull","type":"snack","cuisine":"Italian","cost":27,"inventory":100},
-{"name":"Appetizer - Smoked Salmon / Dill","type":"snack","cuisine":"Continental","cost":19,"inventory":100},
-{"name":"Muffin Batt - Ban Dream Zero","type":"breakfast","cuisine":"Indian","cost":11,"inventory":100},
-{"name":"Buffalo - Short Rib Fresh","type":"snack","cuisine":"Indian","cost":13,"inventory":100},
-{"name":"Apple - Delicious, Golden","type":"breakfast","cuisine":"Mediterranean","cost":12,"inventory":100},
-{"name":"Lamb - Leg, Bone In","type":"breakfast","cuisine":"Continental","cost":27,"inventory":100},
-{"name":"Muffin - Banana Nut Individual","type":"snack","cuisine":"Italian","cost":13,"inventory":100},
-{"name":"Cherries - Maraschino,jar","type":"snack","cuisine":"Indian","cost":19,"inventory":100},
-{"name":"Liners - Banana, Paper","type":"breakfast","cuisine":"Italian","cost":32,"inventory":100},
-{"name":"Lighter - Bbq","type":"breakfast","cuisine":"Italian","cost":26,"inventory":100},
-{"name":"Pepperoni Slices","type":"snack","cuisine":"Indian","cost":21,"inventory":100},
-{"name":"Wine - Fume Blanc Fetzer","type":"breakfast","cuisine":"Mediterranean","cost":11,"inventory":100},
-{"name":"Pasta - Lasagne, Fresh","type":"breakfast","cuisine":"Mediterranean","cost":11,"inventory":100},
-{"name":"Honey - Comb","type":"snack","cuisine":"Continental","cost":16,"inventory":100},
-{"name":"Table Cloth 81x81 White","type":"snack","cuisine":"Italian","cost":4,"inventory":100},
-{"name":"Scrubbie - Scotchbrite Hand Pad","type":"snack","cuisine":"Continental","cost":15,"inventory":100},
-{"name":"Beef - Cow Feet Split","type":"snack","cuisine":"Continental","cost":18,"inventory":100},
-{"name":"Coffee - Flavoured","type":"snack","cuisine":"Continental","cost":1,"inventory":100},
-{"name":"Tart Shells - Savory, 4","type":"breakfast","cuisine":"Chinese","cost":8,"inventory":100},
-{"name":"Bay Leaf Fresh","type":"breakfast","cuisine":"Mediterranean","cost":20,"inventory":100},
-{"name":"Onions - Pearl","type":"breakfast","cuisine":"Mediterranean","cost":22,"inventory":100},
-{"name":"Tomatoes - Vine Ripe, Yellow","type":"breakfast","cuisine":"Italian","cost":31,"inventory":100},
-{"name":"Wine - Vineland Estate Semi - Dry","type":"snack","cuisine":"Indian","cost":7,"inventory":100},
-{"name":"Trout - Hot Smkd, Dbl Fillet","type":"snack","cuisine":"Continental","cost":22,"inventory":100},
-{"name":"Wine - Ice Wine","type":"breakfast","cuisine":"Continental","cost":23,"inventory":100},
-{"name":"Honey - Liquid","type":"snack","cuisine":"Italian","cost":20,"inventory":100},
-{"name":"Shrimp - Black Tiger 6 - 8","type":"breakfast","cuisine":"Continental","cost":31,"inventory":100},
-{"name":"Sauce - Caesar Dressing","type":"snack","cuisine":"Continental","cost":21,"inventory":100},
-{"name":"Wine - Red, Pelee Island Merlot","type":"snack","cuisine":"Italian","cost":29,"inventory":100},
-{"name":"Lid - 3oz Med Rec","type":"snack","cuisine":"Mediterranean","cost":20,"inventory":100},
-{"name":"Wine - Riesling Dr. Pauly","type":"breakfast","cuisine":"Indian","cost":10,"inventory":100},
-{"name":"Mushrooms - Black, Dried","type":"breakfast","cuisine":"Continental","cost":12,"inventory":100},
-{"name":"Pasta - Fettuccine, Dry","type":"breakfast","cuisine":"Continental","cost":9,"inventory":100},
-{"name":"Puree - Pear","type":"breakfast","cuisine":"Indian","cost":19,"inventory":100}]
+[
+  {
+    "name": "Pork - Hock And Feet Attached",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 19,
+    "inventory": 100
+  },
+  {
+    "name": "Lamb - Leg, Bone In",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Eggplant - Regular",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 23,
+    "inventory": 100
+  },
+  {
+    "name": "Salt - Sea",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 26,
+    "inventory": 100
+  },
+  {
+    "name": "Lettuce - Green Leaf",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 3,
+    "inventory": 100
+  },
+  {
+    "name": "Cleaner - Pine Sol",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Macaroons - Homestyle Two Bit",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 2,
+    "inventory": 100
+  },
+  {
+    "name": "Chicken - Wings, Tip Off",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Lid Tray - 12in Dome",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Sterno - Chafing Dish Fuel",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Swiss Chard - Red",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 34,
+    "inventory": 100
+  },
+  {
+    "name": "Silicone Parch. 16.3x24.3",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Tea - Darjeeling, Azzura",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Lid - High Heat, Super Clear",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 18,
+    "inventory": 100
+  },
+  {
+    "name": "Squid Ink",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 16,
+    "inventory": 100
+  },
+  {
+    "name": "Extract Vanilla Pure",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Energy Drink - Franks Original",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Periguita Fonseca",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 12,
+    "inventory": 100
+  },
+  {
+    "name": "Truffle Shells - Semi - Sweet",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 1,
+    "inventory": 100
+  },
+  {
+    "name": "Yogurt - French Vanilla",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 3,
+    "inventory": 100
+  },
+  {
+    "name": "Coffee Cup 8oz 5338cd",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 33,
+    "inventory": 100
+  },
+  {
+    "name": "Guava",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Basil - Primerba, Paste",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 19,
+    "inventory": 100
+  },
+  {
+    "name": "Lamb - Bones",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 16,
+    "inventory": 100
+  },
+  {
+    "name": "Coffee - Colombian, Portioned",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 28,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - White, Pinot Grigio",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Puree - Passion Fruit",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Hersey Shakes",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 3,
+    "inventory": 100
+  },
+  {
+    "name": "Capers - Ox Eye Daisy",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 33,
+    "inventory": 100
+  },
+  {
+    "name": "Soup - Beef, Base Mix",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 33,
+    "inventory": 100
+  },
+  {
+    "name": "Tea - Darjeeling, Azzura",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Crab - Blue, Frozen",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 35,
+    "inventory": 100
+  },
+  {
+    "name": "Urban Zen Drinks",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 13,
+    "inventory": 100
+  },
+  {
+    "name": "Cheese - Le Cru Du Clocher",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 6,
+    "inventory": 100
+  },
+  {
+    "name": "Mix - Cocktail Strawberry Daiquiri",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 34,
+    "inventory": 100
+  },
+  {
+    "name": "Hersey Shakes",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 20,
+    "inventory": 100
+  },
+  {
+    "name": "Artichoke - Bottom, Canned",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Wonton Wrappers",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Tabasco Sauce, 2 Oz",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 5,
+    "inventory": 100
+  },
+  {
+    "name": "Jolt Cola - Red Eye",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 26,
+    "inventory": 100
+  },
+  {
+    "name": "Glass Clear 8 Oz",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 23,
+    "inventory": 100
+  },
+  {
+    "name": "Bread - Focaccia Quarter",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Apple - Royal Gala",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Remy Pannier Rose",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Evaporated Milk - Skim",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Sherry - Dry",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Rye Special Old",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 12,
+    "inventory": 100
+  },
+  {
+    "name": "Yeast Dry - Fermipan",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 8,
+    "inventory": 100
+  },
+  {
+    "name": "Tomato Paste",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 10,
+    "inventory": 100
+  },
+  {
+    "name": "Lid Tray - 12in Dome",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 32,
+    "inventory": 100
+  },
+  {
+    "name": "Bagel - Whole White Sesame",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 23,
+    "inventory": 100
+  },
+  {
+    "name": "Bread - Burger",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 10,
+    "inventory": 100
+  },
+  {
+    "name": "Extract - Rum",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 13,
+    "inventory": 100
+  },
+  {
+    "name": "Tea - Green",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Oregano - Dry, Rubbed",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Bread - Roll, Whole Wheat",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 33,
+    "inventory": 100
+  },
+  {
+    "name": "Yoplait - Strawbrasp Peac",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 34,
+    "inventory": 100
+  },
+  {
+    "name": "Arctic Char - Fillets",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 20,
+    "inventory": 100
+  },
+  {
+    "name": "Beef - Tenderlion, Center Cut",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Chips Potato Reg 43g",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 35,
+    "inventory": 100
+  },
+  {
+    "name": "Beans - Fine",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Beer - Blue",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Lettuce - Frisee",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Spice - Greek 1 Step",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 32,
+    "inventory": 100
+  },
+  {
+    "name": "Propel Sport Drink",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 5,
+    "inventory": 100
+  },
+  {
+    "name": "Olives - Green, Pitted",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 2,
+    "inventory": 100
+  },
+  {
+    "name": "Scallops - U - 10",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 5,
+    "inventory": 100
+  },
+  {
+    "name": "Nut - Almond, Blanched, Whole",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 1,
+    "inventory": 100
+  },
+  {
+    "name": "Ecolab - Orange Frc, Cleaner",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 1,
+    "inventory": 100
+  },
+  {
+    "name": "Jagermeister",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Capers - Ox Eye Daisy",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Pastry - Carrot Muffin - Mini",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 9,
+    "inventory": 100
+  },
+  {
+    "name": "Squid - U - 10 Thailand",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Tomatoes - Cherry",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Taro Root",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 13,
+    "inventory": 100
+  },
+  {
+    "name": "Bread - Hamburger Buns",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Pork - Butt, Boneless",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Cognac - Courvaisier",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Cheese - Roquefort Pappillon",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Blueberries",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 12,
+    "inventory": 100
+  },
+  {
+    "name": "Flour - Fast / Rapid",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Spice - Paprika",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 25,
+    "inventory": 100
+  },
+  {
+    "name": "Turkey - Ground. Lean",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 2,
+    "inventory": 100
+  },
+  {
+    "name": "Beer - Camerons Cream Ale",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Food Colouring - Pink",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Bag - Bread, White, Plain",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 15,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Rosso Toscano Igt",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 1,
+    "inventory": 100
+  },
+  {
+    "name": "Rhubarb",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Cranberries - Dry",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 18,
+    "inventory": 100
+  },
+  {
+    "name": "Flower - Commercial Spider",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Skirt - 24 Foot",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 3,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Periguita Fonseca",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Nut - Cashews, Whole, Raw",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Onions - Cooking",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 13,
+    "inventory": 100
+  },
+  {
+    "name": "Turkey - Whole, Fresh",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Juice - Orange 1.89l",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 18,
+    "inventory": 100
+  },
+  {
+    "name": "Tray - 12in Rnd Blk",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 34,
+    "inventory": 100
+  },
+  {
+    "name": "Mustard - Seed",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 12,
+    "inventory": 100
+  },
+  {
+    "name": "Salt - Table",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 28,
+    "inventory": 100
+  },
+  {
+    "name": "Pork - Kidney",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 32,
+    "inventory": 100
+  },
+  {
+    "name": "Nut - Pumpkin Seeds",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Split Peas - Green, Dry",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 27,
+    "inventory": 100
+  },
+  {
+    "name": "Ham - Smoked, Bone - In",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Truffle Shells - Semi - Sweet",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 2,
+    "inventory": 100
+  },
+  {
+    "name": "Cookies Oatmeal Raisin",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 2,
+    "inventory": 100
+  },
+  {
+    "name": "Lettuce - Baby Salad Greens",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 16,
+    "inventory": 100
+  },
+  {
+    "name": "Veal - Nuckle",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 6,
+    "inventory": 100
+  },
+  {
+    "name": "Sherbet - Raspberry",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 12,
+    "inventory": 100
+  },
+  {
+    "name": "Pimento - Canned",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 33,
+    "inventory": 100
+  },
+  {
+    "name": "Rice - Jasmine Sented",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 28,
+    "inventory": 100
+  },
+  {
+    "name": "Lighter - Bbq",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 35,
+    "inventory": 100
+  },
+  {
+    "name": "Arizona - Plum Green Tea",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Pasta - Penne, Rigate, Dry",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 2,
+    "inventory": 100
+  },
+  {
+    "name": "Pepper - Cayenne",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 12,
+    "inventory": 100
+  },
+  {
+    "name": "Juice - V8 Splash",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 3,
+    "inventory": 100
+  },
+  {
+    "name": "Bread - Raisin Walnut Oval",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 6,
+    "inventory": 100
+  },
+  {
+    "name": "Container - Hngd Cll Blk 7x7x3",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 34,
+    "inventory": 100
+  },
+  {
+    "name": "Cake - Sheet Strawberry",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 1,
+    "inventory": 100
+  },
+  {
+    "name": "Cocoa Butter",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Frangelico",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 33,
+    "inventory": 100
+  },
+  {
+    "name": "Shortbread - Cookie Crumbs",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 13,
+    "inventory": 100
+  },
+  {
+    "name": "C - Plus, Orange",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 8,
+    "inventory": 100
+  },
+  {
+    "name": "Turnip - Wax",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 32,
+    "inventory": 100
+  },
+  {
+    "name": "Sambuca - Opal Nera",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 33,
+    "inventory": 100
+  },
+  {
+    "name": "Nut - Walnut, Pieces",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 8,
+    "inventory": 100
+  },
+  {
+    "name": "Shopper Bag - S - 4",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Carbonated Water - Cherry",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 6,
+    "inventory": 100
+  },
+  {
+    "name": "Soup - Campbells Mushroom",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 17,
+    "inventory": 100
+  },
+  {
+    "name": "Cake - French Pear Tart",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 20,
+    "inventory": 100
+  },
+  {
+    "name": "Chervil - Fresh",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 10,
+    "inventory": 100
+  },
+  {
+    "name": "Pizza Pizza Dough",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 10,
+    "inventory": 100
+  },
+  {
+    "name": "Cauliflower",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 6,
+    "inventory": 100
+  },
+  {
+    "name": "Coconut - Whole",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 5,
+    "inventory": 100
+  },
+  {
+    "name": "Chicken Breast Halal",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 10,
+    "inventory": 100
+  },
+  {
+    "name": "Juice - Tomato, 48 Oz",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Sole - Dover, Whole, Fresh",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Potatoes - Idaho 80 Count",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 26,
+    "inventory": 100
+  },
+  {
+    "name": "Sausage - Breakfast",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Tendrils - Baby Pea, Organic",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Egg Patty Fried",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 12,
+    "inventory": 100
+  },
+  {
+    "name": "Longos - Grilled Chicken With",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Rye Special Old",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 32,
+    "inventory": 100
+  },
+  {
+    "name": "Cinnamon Buns Sticky",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 3,
+    "inventory": 100
+  },
+  {
+    "name": "Lid Tray - 16in Dome",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 33,
+    "inventory": 100
+  },
+  {
+    "name": "Cut Wakame - Hanawakaba",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 8,
+    "inventory": 100
+  },
+  {
+    "name": "Cheese - Mix",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 12,
+    "inventory": 100
+  },
+  {
+    "name": "Garbag Bags - Black",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Shrimp, Dried, Small / Lb",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 1,
+    "inventory": 100
+  },
+  {
+    "name": "Cornstarch",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 27,
+    "inventory": 100
+  },
+  {
+    "name": "Miso Paste White",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Broom Handle",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 32,
+    "inventory": 100
+  },
+  {
+    "name": "Dragon Fruit",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Cake Sheet Combo Party Pack",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 10,
+    "inventory": 100
+  },
+  {
+    "name": "Beef - Shank",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 34,
+    "inventory": 100
+  },
+  {
+    "name": "Food Colouring - Red",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 35,
+    "inventory": 100
+  },
+  {
+    "name": "Beer - Mcauslan Apricot",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Horseradish - Prepared",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 8,
+    "inventory": 100
+  },
+  {
+    "name": "Cabbage - Green",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 8,
+    "inventory": 100
+  },
+  {
+    "name": "Glucose",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 27,
+    "inventory": 100
+  },
+  {
+    "name": "Cream - 35%",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 25,
+    "inventory": 100
+  },
+  {
+    "name": "Bar Mix - Lemon",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 32,
+    "inventory": 100
+  },
+  {
+    "name": "Pepper - Roasted Red",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 32,
+    "inventory": 100
+  },
+  {
+    "name": "Tomatoes - Cherry",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Tea - Herbal - 6 Asst",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Crackers - Melba Toast",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Sausage - Liver",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 23,
+    "inventory": 100
+  },
+  {
+    "name": "Pasta - Lasagna, Dry",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 1,
+    "inventory": 100
+  },
+  {
+    "name": "Snails - Large Canned",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Piping Jelly - All Colours",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Mushroom - Portebello",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Cabbage - Green",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 35,
+    "inventory": 100
+  },
+  {
+    "name": "Doilies - 8, Paper",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Cod - Fillets",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Sherry Dry Sack, William",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 19,
+    "inventory": 100
+  },
+  {
+    "name": "Oregano - Dry, Rubbed",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Tea - Herbal - 6 Asst",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 10,
+    "inventory": 100
+  },
+  {
+    "name": "Bread - Multigrain Oval",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 3,
+    "inventory": 100
+  },
+  {
+    "name": "Bread - Bagels, Mini",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Mangoes",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 20,
+    "inventory": 100
+  },
+  {
+    "name": "Langers - Ruby Red Grapfruit",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 19,
+    "inventory": 100
+  },
+  {
+    "name": "Chocolate - Pistoles, Lactee, Milk",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 25,
+    "inventory": 100
+  },
+  {
+    "name": "Fib N9 - Prague Powder",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Nut - Walnut, Chopped",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 33,
+    "inventory": 100
+  },
+  {
+    "name": "Puree - Passion Fruit",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 22,
+    "inventory": 100
+  },
+  {
+    "name": "Hinge W Undercut",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Soup - French Onion, Dry",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Scampi Tail",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 20,
+    "inventory": 100
+  },
+  {
+    "name": "Cheese - Comtomme",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 1,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Toasted Head",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Cookie - Oatmeal",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Liqueur Banana, Ramazzotti",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 25,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Prosecco Valdobiaddene",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Tomato - Green",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Cheese - Oka",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 13,
+    "inventory": 100
+  },
+  {
+    "name": "Salami - Genova",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Cake - Pancake",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Chocolate - Feathers",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "chinese Foods - Thick Noodles",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Remy Pannier Rose",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 28,
+    "inventory": 100
+  },
+  {
+    "name": "Cookies Almond Hazelnut",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 10,
+    "inventory": 100
+  },
+  {
+    "name": "Contreau",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Bread Foccacia Whole",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 10,
+    "inventory": 100
+  },
+  {
+    "name": "Flour - Semolina",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 12,
+    "inventory": 100
+  },
+  {
+    "name": "Melon - Honey Dew",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 20,
+    "inventory": 100
+  },
+  {
+    "name": "Salt - Celery",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 18,
+    "inventory": 100
+  },
+  {
+    "name": "Vinegar - Champagne",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 12,
+    "inventory": 100
+  },
+  {
+    "name": "Saskatoon Berries - Frozen",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Container - Clear 32 Oz",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 19,
+    "inventory": 100
+  },
+  {
+    "name": "Juice Peach Nectar",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 16,
+    "inventory": 100
+  },
+  {
+    "name": "Relish",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Sauce - Caesar Dressing",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Miso - Soy Bean Paste",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 2,
+    "inventory": 100
+  },
+  {
+    "name": "Table Cloth 144x90 White",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "chinese Foods - Pepper Beef",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 32,
+    "inventory": 100
+  },
+  {
+    "name": "Cake - Night And Day Choclate",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Lid - 10,12,16 Oz",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Coffee - Irish Cream",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 1,
+    "inventory": 100
+  },
+  {
+    "name": "Milk - Chocolate 500ml",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Chips Potato Reg 43g",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 13,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Puligny Montrachet A.",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 6,
+    "inventory": 100
+  },
+  {
+    "name": "Beer - Blue Light",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Jafflin Bourgongone",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Soup Campbells",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 32,
+    "inventory": 100
+  },
+  {
+    "name": "Bay Leaf Ground",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 26,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Red, Marechal Foch",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Apples - Sliced / Wedge",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Longos - Chicken Cordon Bleu",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 35,
+    "inventory": 100
+  },
+  {
+    "name": "Salmon - Smoked, Sliced",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 18,
+    "inventory": 100
+  },
+  {
+    "name": "Grapefruit - White",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Soup - Campbells Tomato Ravioli",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 6,
+    "inventory": 100
+  },
+  {
+    "name": "Olives - Nicoise",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 1,
+    "inventory": 100
+  },
+  {
+    "name": "Shrimp - Black Tiger 6 - 8",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 26,
+    "inventory": 100
+  },
+  {
+    "name": "Sour Puss - Tangerine",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 10,
+    "inventory": 100
+  },
+  {
+    "name": "Icecream Cone - Areo Chocolate",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 26,
+    "inventory": 100
+  },
+  {
+    "name": "Dooleys Toffee",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 8,
+    "inventory": 100
+  },
+  {
+    "name": "Ecolab - Balanced Fusion",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Conde De Valdemar",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 35,
+    "inventory": 100
+  },
+  {
+    "name": "Swiss Chard - Red",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Filling - Mince Meat",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Turkey Tenderloin Frozen",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 26,
+    "inventory": 100
+  },
+  {
+    "name": "Bread - French Baquette",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 8,
+    "inventory": 100
+  },
+  {
+    "name": "Fish - Base, Bouillion",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Pie Shell - 9",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Nescafe - Frothy French Vanilla",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Juice - Orange 1.89l",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 27,
+    "inventory": 100
+  },
+  {
+    "name": "Longos - Chicken Curried",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 10,
+    "inventory": 100
+  },
+  {
+    "name": "Amarula Cream",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 6,
+    "inventory": 100
+  },
+  {
+    "name": "Banana - Green",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 23,
+    "inventory": 100
+  },
+  {
+    "name": "Thyme - Lemon, Fresh",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 2,
+    "inventory": 100
+  },
+  {
+    "name": "Carbonated Water - Orange",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 35,
+    "inventory": 100
+  },
+  {
+    "name": "Grapefruit - Pink",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 33,
+    "inventory": 100
+  },
+  {
+    "name": "Quail Eggs - Canned",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 22,
+    "inventory": 100
+  },
+  {
+    "name": "Beer - Blue",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 16,
+    "inventory": 100
+  },
+  {
+    "name": "Lid - 16 Oz And 32 Oz",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 2,
+    "inventory": 100
+  },
+  {
+    "name": "Arctic Char - Fresh, Whole",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Coffee - 10oz Cup 92961",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 34,
+    "inventory": 100
+  },
+  {
+    "name": "Huck Towels White",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 23,
+    "inventory": 100
+  },
+  {
+    "name": "Haggis",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 25,
+    "inventory": 100
+  },
+  {
+    "name": "Apple - Custard",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Sauce - Marinara",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Bar Energy Chocchip",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 6,
+    "inventory": 100
+  },
+  {
+    "name": "Browning Caramel Glace",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Pork - Smoked Kassler",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 15,
+    "inventory": 100
+  },
+  {
+    "name": "Truffle Paste",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Tilapia - Fillets",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Shopper Bag - S - 4",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 10,
+    "inventory": 100
+  },
+  {
+    "name": "Water - Spring Water, 355 Ml",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 3,
+    "inventory": 100
+  },
+  {
+    "name": "Milk - Buttermilk",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 20,
+    "inventory": 100
+  },
+  {
+    "name": "Bagels Poppyseed",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 20,
+    "inventory": 100
+  },
+  {
+    "name": "Chocolate - Milk",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 8,
+    "inventory": 100
+  },
+  {
+    "name": "Cookie Dough - Peanut Butter",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Appetizer - Tarragon Chicken",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 3,
+    "inventory": 100
+  },
+  {
+    "name": "Brownies - Two Bite, Chocolate",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Eggplant - Baby",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 13,
+    "inventory": 100
+  },
+  {
+    "name": "Sponge Cake Mix - Chocolate",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 16,
+    "inventory": 100
+  },
+  {
+    "name": "Apples - Sliced / Wedge",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Foam Espresso Cup Plain White",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 23,
+    "inventory": 100
+  },
+  {
+    "name": "Pea - Snow",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 9,
+    "inventory": 100
+  },
+  {
+    "name": "Ecolab Digiclean Mild Fm",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Chianti Classico Riserva",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 33,
+    "inventory": 100
+  },
+  {
+    "name": "Soup - Clam Chowder, Dry Mix",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 12,
+    "inventory": 100
+  },
+  {
+    "name": "Cheese - Pied De Vents",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 27,
+    "inventory": 100
+  },
+  {
+    "name": "Mushroom - Chanterelle Frozen",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 8,
+    "inventory": 100
+  },
+  {
+    "name": "Tomato - Tricolor Cherry",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Sauce - Vodka Blush",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Soup - Campbells Bean Medley",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 15,
+    "inventory": 100
+  },
+  {
+    "name": "Bandage - Fexible 1x3",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 2,
+    "inventory": 100
+  },
+  {
+    "name": "Star Anise, Whole",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 2,
+    "inventory": 100
+  },
+  {
+    "name": "Cups 10oz Trans",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 2,
+    "inventory": 100
+  },
+  {
+    "name": "Beer - Camerons Cream Ale",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 6,
+    "inventory": 100
+  },
+  {
+    "name": "Vinegar - Red Wine",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 32,
+    "inventory": 100
+  },
+  {
+    "name": "Soup - Beef Conomme, Dry",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 23,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Alicanca Vinho Verde",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Pasta - Cannelloni, Sheets, Fresh",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 10,
+    "inventory": 100
+  },
+  {
+    "name": "Coffee - Hazelnut Cream",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 1,
+    "inventory": 100
+  },
+  {
+    "name": "Nori Sea Weed",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Pork Ham Prager",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 19,
+    "inventory": 100
+  },
+  {
+    "name": "Bread - 10 Grain",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 10,
+    "inventory": 100
+  },
+  {
+    "name": "Pepper - Scotch Bonnet",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 35,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Red, Marechal Foch",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 18,
+    "inventory": 100
+  },
+  {
+    "name": "Sugar - Sweet N Low, Individual",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Chateau Timberlay",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 5,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - White, French Cross",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 9,
+    "inventory": 100
+  },
+  {
+    "name": "Lamb Rack Frenched Australian",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 22,
+    "inventory": 100
+  },
+  {
+    "name": "Basil - Seedlings Cookstown",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 8,
+    "inventory": 100
+  },
+  {
+    "name": "Yogurt - Raspberry, 175 Gr",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 22,
+    "inventory": 100
+  },
+  {
+    "name": "Pie Pecan",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 16,
+    "inventory": 100
+  },
+  {
+    "name": "Paste - Black Olive",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Hand Towel",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Veal - Tenderloin, Untrimmed",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Fish - Artic Char, Cold Smoked",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 35,
+    "inventory": 100
+  },
+  {
+    "name": "Apron",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 34,
+    "inventory": 100
+  },
+  {
+    "name": "Pepper - Green Thai",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 18,
+    "inventory": 100
+  },
+  {
+    "name": "Cup - 6oz, Foam",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 5,
+    "inventory": 100
+  },
+  {
+    "name": "Yoplait - Strawbrasp Peac",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 33,
+    "inventory": 100
+  },
+  {
+    "name": "Bacardi Breezer - Strawberry",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 35,
+    "inventory": 100
+  },
+  {
+    "name": "Zucchini - Mini, Green",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Pasta - Lasagne, Fresh",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Yogurt - Cherry, 175 Gr",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 23,
+    "inventory": 100
+  },
+  {
+    "name": "Steamers White",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Lettuce - Green Leaf",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 1,
+    "inventory": 100
+  },
+  {
+    "name": "Tart Shells - Savory, 4",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 8,
+    "inventory": 100
+  },
+  {
+    "name": "Drambuie",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Lettuce - Romaine, Heart",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 33,
+    "inventory": 100
+  },
+  {
+    "name": "Crab - Soft Shell",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 6,
+    "inventory": 100
+  },
+  {
+    "name": "Shrimp - 16/20, Peeled Deviened",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Pork - Loin, Boneless",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 3,
+    "inventory": 100
+  },
+  {
+    "name": "Pork - Inside",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 18,
+    "inventory": 100
+  },
+  {
+    "name": "Milk - Chocolate 500ml",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 35,
+    "inventory": 100
+  },
+  {
+    "name": "Sole - Dover, Whole, Fresh",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 8,
+    "inventory": 100
+  },
+  {
+    "name": "Cheese - Goat",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 32,
+    "inventory": 100
+  },
+  {
+    "name": "Seedlings - Buckwheat, Organic",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Smoked Tongue",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 8,
+    "inventory": 100
+  },
+  {
+    "name": "Huck White Towels",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 25,
+    "inventory": 100
+  },
+  {
+    "name": "Remy Red",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Nut - Pistachio, Shelled",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 1,
+    "inventory": 100
+  },
+  {
+    "name": "Paste - Black Olive",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 13,
+    "inventory": 100
+  },
+  {
+    "name": "Scotch - Queen Anne",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Mackerel Whole Fresh",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 2,
+    "inventory": 100
+  },
+  {
+    "name": "Pimento - Canned",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Sauce - Marinara",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 28,
+    "inventory": 100
+  },
+  {
+    "name": "Lamb - Leg, Diced",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 34,
+    "inventory": 100
+  },
+  {
+    "name": "Bandage - Fexible 1x3",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 25,
+    "inventory": 100
+  },
+  {
+    "name": "Onions - Cippolini",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 32,
+    "inventory": 100
+  },
+  {
+    "name": "Lemonade - Black Cherry, 591 Ml",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Cup - Paper 10oz 92959",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 23,
+    "inventory": 100
+  },
+  {
+    "name": "Pancetta",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Bagel - Plain",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 9,
+    "inventory": 100
+  },
+  {
+    "name": "Oil - Truffle, White",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 17,
+    "inventory": 100
+  },
+  {
+    "name": "Chocolate - Semi Sweet",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 25,
+    "inventory": 100
+  },
+  {
+    "name": "Oyster - In Shell",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 9,
+    "inventory": 100
+  },
+  {
+    "name": "Pork - Belly Fresh",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Bag Stand",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Fat Bastard Merlot",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Radish",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 16,
+    "inventory": 100
+  },
+  {
+    "name": "Cabbage - Red",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Vinegar - Champagne",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 33,
+    "inventory": 100
+  },
+  {
+    "name": "Pasta - Cheese / Spinach Bauletti",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 15,
+    "inventory": 100
+  },
+  {
+    "name": "Food Colouring - Green",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 27,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Soave Folonari",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 6,
+    "inventory": 100
+  },
+  {
+    "name": "Bread - Pita",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Bamboo Shoots - Sliced",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Food Colouring - Blue",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 15,
+    "inventory": 100
+  },
+  {
+    "name": "Crab - Blue, Frozen",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 25,
+    "inventory": 100
+  },
+  {
+    "name": "Ostrich - Prime Cut",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 5,
+    "inventory": 100
+  },
+  {
+    "name": "Pork - Smoked Kassler",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Evaporated Milk - Skim",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Pate - Liver",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Flour Pastry Super Fine",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 16,
+    "inventory": 100
+  },
+  {
+    "name": "Fork - Plastic",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Initation Crab Meat",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Ice Cream - Turtles Stick Bar",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 5,
+    "inventory": 100
+  },
+  {
+    "name": "Corn Meal",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 2,
+    "inventory": 100
+  },
+  {
+    "name": "Bread - Granary Small Pull",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 32,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Prosecco Valdobiaddene",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Veal - Brisket, Provimi,bnls",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Pork - Chop, Frenched",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Versatainer Nc - 888",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "True - Vue Containers",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Cousino Macul Antiguas",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 2,
+    "inventory": 100
+  },
+  {
+    "name": "Honey - Lavender",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 22,
+    "inventory": 100
+  },
+  {
+    "name": "Garlic - Primerba, Paste",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 15,
+    "inventory": 100
+  },
+  {
+    "name": "Chicken - Bones",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 12,
+    "inventory": 100
+  },
+  {
+    "name": "Sauce - Black Current, Dry Mix",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Lamb - Loin Chops",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 14,
+    "inventory": 100
+  },
+  {
+    "name": "Island Oasis - Pina Colada",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Frangelico",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 26,
+    "inventory": 100
+  },
+  {
+    "name": "Lettuce - Belgian Endive",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Crab - Meat Combo",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Beer - Muskoka Cream Ale",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 10,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Harrow Estates, Vidal",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Papayas",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 1,
+    "inventory": 100
+  },
+  {
+    "name": "Rice - Sushi",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Temperature Recording Station",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 35,
+    "inventory": 100
+  },
+  {
+    "name": "Rabbit - Frozen",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 27,
+    "inventory": 100
+  },
+  {
+    "name": "Vaccum Bag - 14x20",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Energy Drink - Franks Original",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 34,
+    "inventory": 100
+  },
+  {
+    "name": "Liqueur Banana, Ramazzotti",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 13,
+    "inventory": 100
+  },
+  {
+    "name": "Coconut Milk - Unsweetened",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 13,
+    "inventory": 100
+  },
+  {
+    "name": "Beer - Moosehead",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 19,
+    "inventory": 100
+  },
+  {
+    "name": "Crackers - Soda / Saltins",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 17,
+    "inventory": 100
+  },
+  {
+    "name": "Tahini Paste",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 16,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - White, Riesling, Henry Of",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 34,
+    "inventory": 100
+  },
+  {
+    "name": "Salami - Genova",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 28,
+    "inventory": 100
+  },
+  {
+    "name": "Jolt Cola - Red Eye",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 6,
+    "inventory": 100
+  },
+  {
+    "name": "Tea - Mint",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 18,
+    "inventory": 100
+  },
+  {
+    "name": "Longos - Chicken Cordon Bleu",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Eggs - Extra Large",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 22,
+    "inventory": 100
+  },
+  {
+    "name": "Carroway Seed",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 35,
+    "inventory": 100
+  },
+  {
+    "name": "Soy Protein",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 1,
+    "inventory": 100
+  },
+  {
+    "name": "Cornflakes",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 17,
+    "inventory": 100
+  },
+  {
+    "name": "Sandwich Wrap",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Brandy - Orange, Mc Guiness",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Bread Base - Goodhearth",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 17,
+    "inventory": 100
+  },
+  {
+    "name": "Appetizer - Chicken Satay",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 33,
+    "inventory": 100
+  },
+  {
+    "name": "Bread Cranberry Foccacia",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 34,
+    "inventory": 100
+  },
+  {
+    "name": "Pie Shell - 5",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 34,
+    "inventory": 100
+  },
+  {
+    "name": "Pastry - French Mini Assorted",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 3,
+    "inventory": 100
+  },
+  {
+    "name": "Coconut - Whole",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 22,
+    "inventory": 100
+  },
+  {
+    "name": "Lamb - Shanks",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Banana - Leaves",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 2,
+    "inventory": 100
+  },
+  {
+    "name": "Beef - Tenderloin - Aa",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 15,
+    "inventory": 100
+  },
+  {
+    "name": "Lamb Tenderloin Nz Fr",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Water - Mineral, Natural",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 33,
+    "inventory": 100
+  },
+  {
+    "name": "Bagel - Plain",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 3,
+    "inventory": 100
+  },
+  {
+    "name": "Chicken - Base",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 16,
+    "inventory": 100
+  },
+  {
+    "name": "Carbonated Water - Blackcherry",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 23,
+    "inventory": 100
+  },
+  {
+    "name": "Cheese - Mozzarella, Shredded",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 12,
+    "inventory": 100
+  },
+  {
+    "name": "Leeks - Large",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 5,
+    "inventory": 100
+  },
+  {
+    "name": "Bread - Pita, Mini",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Oil - Coconut",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 20,
+    "inventory": 100
+  },
+  {
+    "name": "Beef - Short Loin",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 28,
+    "inventory": 100
+  },
+  {
+    "name": "Icecream - Dstk Cml And Fdg",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 5,
+    "inventory": 100
+  },
+  {
+    "name": "Bread Cranberry Foccacia",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 10,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Magnotta - Cab Franc",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 3,
+    "inventory": 100
+  },
+  {
+    "name": "Ham Black Forest",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Veal - Striploin",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Salmon - Whole, 4 - 6 Pounds",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Mcguinness - Blue Curacao",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Lobster - Tail 6 Oz",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 30,
+    "inventory": 100
+  },
+  {
+    "name": "Bacardi Breezer - Tropical",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 34,
+    "inventory": 100
+  },
+  {
+    "name": "Alize Red Passion",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Tart Shells - Sweet, 2",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 5,
+    "inventory": 100
+  },
+  {
+    "name": "Flour - Bread",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 26,
+    "inventory": 100
+  },
+  {
+    "name": "Truffle Cups - Red",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 12,
+    "inventory": 100
+  },
+  {
+    "name": "Beef - Tender Tips",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 16,
+    "inventory": 100
+  },
+  {
+    "name": "Mikes Hard Lemonade",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 15,
+    "inventory": 100
+  },
+  {
+    "name": "Soup - Knorr, Classic Can. Chili",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Cookie Dough - Double",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 6,
+    "inventory": 100
+  },
+  {
+    "name": "Vinegar - Cider",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 22,
+    "inventory": 100
+  },
+  {
+    "name": "Lettuce - Iceberg",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 26,
+    "inventory": 100
+  },
+  {
+    "name": "Mackerel Whole Fresh",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Stainless Steel Cleaner Vision",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Bag Clear 10 Lb",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 2,
+    "inventory": 100
+  },
+  {
+    "name": "Oil - Pumpkinseed",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 8,
+    "inventory": 100
+  },
+  {
+    "name": "Soup - Campbells Chili",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 8,
+    "inventory": 100
+  },
+  {
+    "name": "Pail For Lid 1537",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 24,
+    "inventory": 100
+  },
+  {
+    "name": "Lettuce - Boston Bib",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 9,
+    "inventory": 100
+  },
+  {
+    "name": "Danishes - Mini Cheese",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Carbonated Water - Lemon Lime",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 15,
+    "inventory": 100
+  },
+  {
+    "name": "Table Cloth 53x53 White",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 20,
+    "inventory": 100
+  },
+  {
+    "name": "Capicola - Hot",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 13,
+    "inventory": 100
+  },
+  {
+    "name": "Spaghetti Squash",
+    "type": "snack",
+    "cuisine": "chinese",
+    "cost": 35,
+    "inventory": 100
+  },
+  {
+    "name": "Skewers - Bamboo",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 9,
+    "inventory": 100
+  },
+  {
+    "name": "Butter - Unsalted",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 26,
+    "inventory": 100
+  },
+  {
+    "name": "Beans - Turtle, Black, Dry",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 5,
+    "inventory": 100
+  },
+  {
+    "name": "Bread - Granary Small Pull",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 27,
+    "inventory": 100
+  },
+  {
+    "name": "Appetizer - Smoked Salmon / Dill",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 19,
+    "inventory": 100
+  },
+  {
+    "name": "Muffin Batt - Ban Dream Zero",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Buffalo - Short Rib Fresh",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 13,
+    "inventory": 100
+  },
+  {
+    "name": "Apple - Delicious, Golden",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 12,
+    "inventory": 100
+  },
+  {
+    "name": "Lamb - Leg, Bone In",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 27,
+    "inventory": 100
+  },
+  {
+    "name": "Muffin - Banana Nut Individual",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 13,
+    "inventory": 100
+  },
+  {
+    "name": "Cherries - Maraschino,jar",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 19,
+    "inventory": 100
+  },
+  {
+    "name": "Liners - Banana, Paper",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 32,
+    "inventory": 100
+  },
+  {
+    "name": "Lighter - Bbq",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 26,
+    "inventory": 100
+  },
+  {
+    "name": "Pepperoni Slices",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Fume Blanc Fetzer",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Pasta - Lasagne, Fresh",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 11,
+    "inventory": 100
+  },
+  {
+    "name": "Honey - Comb",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 16,
+    "inventory": 100
+  },
+  {
+    "name": "Table Cloth 81x81 White",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 4,
+    "inventory": 100
+  },
+  {
+    "name": "Scrubbie - Scotchbrite Hand Pad",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 15,
+    "inventory": 100
+  },
+  {
+    "name": "Beef - Cow Feet Split",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 18,
+    "inventory": 100
+  },
+  {
+    "name": "Coffee - Flavoured",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 1,
+    "inventory": 100
+  },
+  {
+    "name": "Tart Shells - Savory, 4",
+    "type": "breakfast",
+    "cuisine": "chinese",
+    "cost": 8,
+    "inventory": 100
+  },
+  {
+    "name": "Bay Leaf Fresh",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 20,
+    "inventory": 100
+  },
+  {
+    "name": "Onions - Pearl",
+    "type": "breakfast",
+    "cuisine": "mediterranean",
+    "cost": 22,
+    "inventory": 100
+  },
+  {
+    "name": "Tomatoes - Vine Ripe, Yellow",
+    "type": "breakfast",
+    "cuisine": "italian",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Vineland Estate Semi - Dry",
+    "type": "snack",
+    "cuisine": "indian",
+    "cost": 7,
+    "inventory": 100
+  },
+  {
+    "name": "Trout - Hot Smkd, Dbl Fillet",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 22,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Ice Wine",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 23,
+    "inventory": 100
+  },
+  {
+    "name": "Honey - Liquid",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 20,
+    "inventory": 100
+  },
+  {
+    "name": "Shrimp - Black Tiger 6 - 8",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 31,
+    "inventory": 100
+  },
+  {
+    "name": "Sauce - Caesar Dressing",
+    "type": "snack",
+    "cuisine": "continental",
+    "cost": 21,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Red, Pelee Island Merlot",
+    "type": "snack",
+    "cuisine": "italian",
+    "cost": 29,
+    "inventory": 100
+  },
+  {
+    "name": "Lid - 3oz Med Rec",
+    "type": "snack",
+    "cuisine": "mediterranean",
+    "cost": 20,
+    "inventory": 100
+  },
+  {
+    "name": "Wine - Riesling Dr. Pauly",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 10,
+    "inventory": 100
+  },
+  {
+    "name": "Mushrooms - Black, Dried",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 12,
+    "inventory": 100
+  },
+  {
+    "name": "Pasta - Fettuccine, Dry",
+    "type": "breakfast",
+    "cuisine": "continental",
+    "cost": 9,
+    "inventory": 100
+  },
+  {
+    "name": "Puree - Pear",
+    "type": "breakfast",
+    "cuisine": "indian",
+    "cost": 19,
+    "inventory": 100
+  }
+]
