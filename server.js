@@ -26,7 +26,7 @@ const limiter = rateLimit({
 app.use(hpp());
 app.use(xss());
 app.use(helmet());
-app.use(limiter());
+app.use(limiter);
 app.use(mongoSanitize());
 
 // dev logging middleware
