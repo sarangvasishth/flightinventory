@@ -9,10 +9,10 @@ const helmet = require("helmet");
 const rateLimit = require("express-rate-limit");
 const mongoSanitize = require("express-mongo-sanitize");
 
-const connectDB = require("./config/db");
-const errorHandler = require("./middlewares/error");
+const connectDB = require("../config/db");
+const errorHandler = require("../middlewares/error");
 
-const { DEVELOPMENT } = require("./src/constants");
+const { DEVELOPMENT } = require("../src/constants");
 
 connectDB();
 const app = express();
