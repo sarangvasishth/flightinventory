@@ -11,6 +11,9 @@ const mongoSanitize = require("express-mongo-sanitize");
 
 const connectDB = require("../config/db");
 const errorHandler = require("../middlewares/error");
+const asyncHandler = require("../middlewares/async");
+
+const Product = require("../server/models/Product");
 
 const { DEVELOPMENT } = require("../src/constants");
 
@@ -34,9 +37,38 @@ if (process.env.NODE_ENV === DEVELOPMENT) {
   app.use(logger("dev"));
 }
 
-app.get("/", function (req, res, next) {
-  return res.send("Hello World");
-});
+app.get(
+  "/product",
+  asyncHandler(async (req, res, next) => {
+    const { search, sort, page } = req.params;
+
+    const pipeline = [];
+    if (search) {
+      pipeline.push({
+        $or: [
+          { slug: { $regex: search, $options: "i" } },
+          { type: { $regex: search, $options: "i" } },
+          { cuisine: { $regex: search, $options: "i" } },
+        ],
+      });
+    }
+    if (sort) {
+      pipeline.push({
+        $or: [
+          { slug: { $regex: search, $options: "i" } },
+          { type: { $regex: search, $options: "i" } },
+          { cuisine: { $regex: search, $options: "i" } },
+        ],
+      });
+    }
+
+    const items = await Product.find();
+    return res.status(200).json({
+      success: true,
+      data: items,
+    });
+  })
+);
 
 app.use(function (req, res, next) {
   res.status(404);

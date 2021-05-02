@@ -31,7 +31,6 @@ const ProductSchema = new moongose.Schema(
 );
 
 ProductSchema.pre("save", function (next) {
-  console.log("Slugify ran!!", this.name);
   this.slug = slugify(this.name, { lower: true });
   next();
 });
