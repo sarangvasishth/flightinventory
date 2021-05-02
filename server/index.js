@@ -15,7 +15,11 @@ const asyncHandler = require("../middlewares/async");
 
 const Product = require("../server/models/Product");
 
-const { DEVELOPMENT } = require("../src/constants");
+const {
+  DEVELOPMENT,
+  DEFAULT_SORT_KEY,
+  DEFAULT_ITEMS_PER_PAGE,
+} = require("../src/constants");
 
 connectDB();
 const app = express();
@@ -40,29 +44,38 @@ if (process.env.NODE_ENV === DEVELOPMENT) {
 app.get(
   "/product",
   asyncHandler(async (req, res, next) => {
-    const { search, sort, page } = req.params;
+    let { search, sort, page, order } = req.query;
 
     const pipeline = [];
     if (search) {
       pipeline.push({
-        $or: [
-          { slug: { $regex: search, $options: "i" } },
-          { type: { $regex: search, $options: "i" } },
-          { cuisine: { $regex: search, $options: "i" } },
-        ],
-      });
-    }
-    if (sort) {
-      pipeline.push({
-        $or: [
-          { slug: { $regex: search, $options: "i" } },
-          { type: { $regex: search, $options: "i" } },
-          { cuisine: { $regex: search, $options: "i" } },
-        ],
+        $match: {
+          $or: [
+            { slug: { $regex: search, $options: "i" } },
+            { type: { $regex: search, $options: "i" } },
+            { cuisine: { $regex: search, $options: "i" } },
+          ],
+        },
       });
     }
 
-    const items = await Product.find();
+    if (sort) {
+      pipeline.push({ $sort: { [sort]: order && order === "DESC" ? -1 : 1 } });
+    } else {
+      pipeline.push({ $sort: { [DEFAULT_SORT_KEY]: -1 } });
+    }
+
+    if (page) {
+      pipeline.push(
+        {
+          $skip: DEFAULT_ITEMS_PER_PAGE * page - DEFAULT_ITEMS_PER_PAGE,
+        },
+        { $limit: DEFAULT_ITEMS_PER_PAGE }
+      );
+    }
+
+    const items = await Product.aggregate(pipeline);
+
     return res.status(200).json({
       success: true,
       data: items,
