@@ -1,7 +1,7 @@
 # flightinventory
 
 
-Step 1. Download ```.env file``` from email and place it in the project root folder.
+Step 1. Download ```.env``` file from email and place it in the project root folder.
 
 Step 2. Please have a local mongo server running.
 
