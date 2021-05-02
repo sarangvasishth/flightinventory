@@ -7,4 +7,6 @@ Step 2. Please have a local mongo server running.
 
 Step 3. Run ```node seeder.js``` from project root to upload data in local mongo instance (Database = frontM, Collection='products').
 
-Step 4. ```npm start```
+Step 4. ```npm start``` from project root folder.
+
+Step 5. Project should be running at ```PORT: 5000```.
